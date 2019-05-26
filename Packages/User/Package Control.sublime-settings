@@ -1,0 +1,34 @@
+{
+	"bootstrapped": true,
+	"channels":
+	[
+		"https://raw.githubusercontent.com/HBLong/channel_v3_daily/master/channel_v3.json",
+		"https://raw.githubusercontent.com/wilon/sublime/master/download/channel_v3.json",
+		"https://packagecontrol.io/channel_v3.json"
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AutoPEP8",
+		"Boxy Theme",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"Indent XML",
+		"knockdown",
+		"LaTeXing",
+		"Monokai++",
+		"Package Control",
+		"PackageDev",
+		"Pretty JSON",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimePeek-R-help",
+		"SublimeREPL",
+		"Terminal"
+	]
+}

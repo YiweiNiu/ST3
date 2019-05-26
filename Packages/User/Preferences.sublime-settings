@@ -1,0 +1,26 @@
+{
+	"bold_folder_labels": true,
+	"channels":
+	[
+		"https://raw.githubusercontent.com/HBLong/channel_v3_daily/master/channel_v3.json",
+		"https://raw.githubusercontent.com/wilon/sublime/master/download/channel_v3.json"
+	],
+	"color_scheme": "Packages/Monokai++/themes/Monokai++.tmTheme",
+	"default_encoding": "UTF-8",
+	"default_line_ending": "unix",
+	"draw_white_space": "all",
+	"font_face": "YaHei Consolas Hybrid",
+	"font_size": 16,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80,
+		100
+	],
+	"tab_size": 4,
+	"theme": "Default.sublime-theme",
+	"word_wrap": true
+}
