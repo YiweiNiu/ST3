@@ -1,0 +1,7 @@
+// These settings override both User and Default settings for the Python syntax
+{
+	// 一次缩进为 4 个空格
+	"tab_size": 4,
+	// 把 tab 转换成 空格
+	"translate_tabs_to_spaces": true
+}

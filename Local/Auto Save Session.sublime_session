@@ -1,0 +1,3149 @@
+{
+	"folder_history":
+	[
+		"/D/Project/20190524_tRNA_promoter/tRNA_match",
+		"/D/Project/20190530_BioLib/BioLib",
+		"/D/Project/20190530_NiuLib/NiuLib",
+		"/D/Project/20170808_cancer_regulatory_SNP/ennet_190429",
+		"/D/Project/20170406_diabetes/190509_mergeSV",
+		"/D/Project/20190510_DriverNetPy",
+		"/C/Users/NIU/Desktop",
+		"/D/Project/20170808_cancer_regulatory_SNP/ennet_190429/Ennet",
+		"/D/Project/20170406_diabetes/170407_SV pipeline/20180718_SV继续/整合/metasv",
+		"/D/Project/20170406_diabetes/170407_SV pipeline/20180718_SV继续/整合",
+		"/D/Project/20170629_beetle_genome/组装/redundans/redundans",
+		"/D/Project/20170629_beetle_genome/组装/redundans/redundans-master",
+		"/D/Project/20170808_cancer_regulatory_SNP/ennet_180821",
+		"/D/Project/20170808_cancer_regulatory_SNP/ennet_180821/001",
+		"/D/Project/20170808_cancer_regulatory_SNP/参考/Walker-master",
+		"/D/Project/20170808_cancer_regulatory_SNP/ennet_180821/002",
+		"/D/Project/20170808_cancer_regulatory_SNP/ennet_180821/0.1",
+		"/D/Project/20170808_cancer_regulatory_SNP/ennet/script_r3_dsum",
+		"/D/Project/20170808_cancer_regulatory_SNP/ennet/script",
+		"/D/Project/20170406_diabetes/20180603_Fudan_enhancer/simple_ennet",
+		"/D/Project/20170808_cancer_regulatory_SNP/ennet/script_r3_dsum_divide_degree_then_permute_net",
+		"/D/Project/20170808_cancer_regulatory_SNP/ennet/script_r3_dsum_divide_degree_then_permute_score",
+		"/D/Project/20170808_cancer_regulatory_SNP/ennet/script_r3_dsum_divide_degree",
+		"/D/Project/20170808_cancer_regulatory_SNP/ennet/script_r3_dsum_permute_score",
+		"/D/Project/20170808_cancer_regulatory_SNP/ennet/script_r3_dsum_permute_net",
+		"/D/Project/20170808_cancer_regulatory_SNP/ennet/script_r3_dsum_permute_net_after_permute_score",
+		"/D/Project/20170808_cancer_regulatory_SNP/参考/hotnet2-1.2.1",
+		"/D/Project/20170808_cancer_regulatory_SNP/ennet/script_r3_dsum_divide_degree_square",
+		"/D/Project/20170808_cancer_regulatory_SNP/ennet/script_r3_dsum_n_plus1",
+		"/D/Project/20170808_cancer_regulatory_SNP/ennet/script_r3_dsum_rmSTAR",
+		"/D/Project/20170808_cancer_regulatory_SNP/ennet/script_r3",
+		"/D/Project/20170808_cancer_regulatory_SNP/ennet/develop/ennet_dsum_deltaSelection",
+		"/D/Project/20170808_cancer_regulatory_SNP/找突变/hotnet2-master",
+		"/D/Project/20170808_cancer_regulatory_SNP/找突变/GeneralizedHotNet",
+		"/D/Project/20170808_cancer_regulatory_SNP/找突变/hotnet-master",
+		"/D/Project/20170808_cancer_regulatory_SNP/ennet"
+	],
+	"last_version": 3207,
+	"last_window_id": 116,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 694.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"motif",
+						"motif_seq〔argument〕"
+					],
+					[
+						"moti",
+						"motif_seq〔argument〕"
+					],
+					[
+						"seq",
+						"sequence〔variable〕"
+					],
+					[
+						"find",
+						"finditer〔function〕"
+					],
+					[
+						"all",
+						"allow"
+					],
+					[
+						"st",
+						"strict〔variable〕"
+					],
+					[
+						"pr",
+						"print〔keyword〕"
+					],
+					[
+						"pro",
+						"protein_iupac〔variable〕"
+					],
+					[
+						"dna_",
+						"dna_expansile〔variable〕"
+					],
+					[
+						"Ex",
+						"Exception〔class〕"
+					],
+					[
+						"mot",
+						"motif_dict〔variable〕"
+					],
+					[
+						"dege",
+						"degenerate_motif〔variable〕"
+					],
+					[
+						"m",
+						"motif_dict"
+					],
+					[
+						"tm",
+						"tmp_code"
+					],
+					[
+						"tmp",
+						"tmp_code"
+					],
+					[
+						"pf",
+						"pfm_to_re_helper〔function〕"
+					],
+					[
+						"to",
+						"tot_w"
+					],
+					[
+						"read",
+						"readline〔function〕"
+					],
+					[
+						"fil",
+						"filename〔argument〕"
+					],
+					[
+						"fi",
+						"filename〔argument〕"
+					],
+					[
+						"sta",
+						"startswith"
+					],
+					[
+						"cotn",
+						"continue〔keyword〕"
+					],
+					[
+						"ge",
+						"genome"
+					],
+					[
+						"be",
+						"bed"
+					],
+					[
+						"bed",
+						"bedtools"
+					],
+					[
+						"tR",
+						"tRNAscan_BAC"
+					],
+					[
+						"Ar",
+						"Aragorn_BAC"
+					],
+					[
+						"tRNA",
+						"tRAN_type〔variable〕"
+					],
+					[
+						"inf",
+						"infernal"
+					],
+					[
+						"tRA",
+						"tRAN_type〔variable〕"
+					],
+					[
+						"tRAN",
+						"tRNA.match.fa"
+					],
+					[
+						"str",
+						"str〔class〕"
+					],
+					[
+						"out",
+						"output"
+					],
+					[
+						"merge",
+						"merged_interval"
+					],
+					[
+						"mer",
+						"merge"
+					],
+					[
+						"Bed",
+						"BedList〔class〕"
+					],
+					[
+						"add",
+						"add_argument"
+					],
+					[
+						"dis",
+						"distance"
+					],
+					[
+						"stra",
+						"strandedness"
+					],
+					[
+						"ne",
+						"new_bed"
+					],
+					[
+						"par",
+						"parsers"
+					],
+					[
+						"se",
+						"self"
+					],
+					[
+						"is",
+						"isinstance〔function〕"
+					],
+					[
+						"ov",
+						"is_overlap〔function〕"
+					],
+					[
+						"blo",
+						"blockSizes"
+					],
+					[
+						"bloc",
+						"blockSizes"
+					],
+					[
+						"bl",
+						"blockStarts〔function〕"
+					],
+					[
+						"sor",
+						"sorted〔argument〕"
+					],
+					[
+						"sort",
+						"sorted"
+					],
+					[
+						"reco",
+						"records"
+					],
+					[
+						"rec",
+						"record〔variable〕"
+					],
+					[
+						"reo",
+						"records"
+					],
+					[
+						"B",
+						"BedFile"
+					],
+					[
+						"ch",
+						"chrom"
+					],
+					[
+						"lo",
+						"long_name〔variable〕"
+					],
+					[
+						"ite",
+						"items〔variable〕"
+					],
+					[
+						"F",
+						"FASTA"
+					],
+					[
+						"min",
+						"min_len〔variable〕"
+					],
+					[
+						"wri",
+						"write〔function〕"
+					],
+					[
+						"wr",
+						"write〔function〕"
+					],
+					[
+						"medi",
+						"median_len〔variable〕"
+					],
+					[
+						"max",
+						"max_len〔variable〕"
+					],
+					[
+						"sum",
+						"sum_len〔variable〕"
+					],
+					[
+						"num",
+						"num_seqs〔variable〕"
+					],
+					[
+						"tmp_",
+						"tmp_gc"
+					],
+					[
+						"re",
+						"records〔variable〕"
+					],
+					[
+						"me",
+						"median〔function〕"
+					],
+					[
+						"typ",
+						"type"
+					],
+					[
+						"long",
+						"long_name"
+					],
+					[
+						"id",
+						"idxname"
+					],
+					[
+						"store",
+						"store_true"
+					],
+					[
+						"fa",
+						"fasta"
+					],
+					[
+						"ar",
+						"argparser_stats〔variable〕"
+					],
+					[
+						"add_sub",
+						"add_subseq_option〔function〕"
+					],
+					[
+						"na",
+						"name_only〔argument〕"
+					],
+					[
+						"rev",
+						"revcomp"
+					],
+					[
+						"Fa",
+						"Fasta〔class〕"
+					],
+					[
+						"nam",
+						"name_only〔argument〕"
+					],
+					[
+						"proper",
+						"property"
+					],
+					[
+						"end",
+						"endswith"
+					],
+					[
+						"gro",
+						"group2"
+					],
+					[
+						"gr",
+						"group_case"
+					],
+					[
+						"sub",
+						"subparsers"
+					],
+					[
+						"head",
+						"header〔variable〕"
+					],
+					[
+						"hea",
+						"headerStr〔variable〕"
+					],
+					[
+						"t",
+						"tRNAscan_out"
+					],
+					[
+						"b",
+						"blockStarts"
+					],
+					[
+						"in",
+						"intron_begin"
+					],
+					[
+						"thi",
+						"thickStart"
+					],
+					[
+						"de",
+						"deoverlap〔function〕"
+					],
+					[
+						"remo",
+						"remove_intron〔argument〕"
+					],
+					[
+						"ara",
+						"aragorn_type〔variable〕"
+					],
+					[
+						"In",
+						"Infernal〔class〕"
+					],
+					[
+						"spli",
+						"split_list"
+					],
+					[
+						"conti",
+						"continue〔keyword〕"
+					],
+					[
+						"A",
+						"Aragorn"
+					],
+					[
+						"err",
+						"err"
+					],
+					[
+						"li",
+						"linebases"
+					],
+					[
+						"lin",
+						"linebases"
+					],
+					[
+						"_",
+						"_file_opener"
+					],
+					[
+						"bu",
+						"build_idx"
+					],
+					[
+						"idx",
+						"idxname"
+					],
+					[
+						"s",
+						"self"
+					],
+					[
+						"__th",
+						"__thickEnd"
+					],
+					[
+						"__st",
+						"__strand"
+					],
+					[
+						"set",
+						"setter"
+					],
+					[
+						"__",
+						"__init__〔function〕"
+					],
+					[
+						"Be",
+						"Bed3"
+					],
+					[
+						"a",
+						"AttributeError〔class〕"
+					],
+					[
+						"V",
+						"ValueError〔class〕"
+					],
+					[
+						"for",
+						"format"
+					],
+					[
+						"wa",
+						"warning〔function〕"
+					],
+					[
+						"__n",
+						"__next__"
+					],
+					[
+						"th",
+						"thickStart〔argument〕"
+					],
+					[
+						"e",
+						"err"
+					],
+					[
+						"CNh",
+						"CNh_OR〔variable〕"
+					],
+					[
+						"CN_",
+						"CN_OR〔variable〕"
+					],
+					[
+						"CN",
+						"CN_ctrl_mut〔variable〕"
+					],
+					[
+						"US_c",
+						"US_ctrl_mut〔variable〕"
+					],
+					[
+						"US_ca",
+						"US_case_mut〔variable〕"
+					],
+					[
+						"samp",
+						"samples〔variable〕"
+					],
+					[
+						"get",
+						"get_chi_p〔function〕"
+					],
+					[
+						"sampl",
+						"sample"
+					],
+					[
+						"sample",
+						"samples"
+					],
+					[
+						"del",
+						"del_files"
+					],
+					[
+						"vc",
+						"vcfs"
+					],
+					[
+						"sv",
+						"svs_to_report"
+					],
+					[
+						"too",
+						"toolname〔variable〕"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							"Clean up Files"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/LaTeXing/LaTeX.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/PackageDev/Package/Convert to ....sublime-build",
+							""
+						],
+						[
+							"Packages/PackageDev/Package/Convert to ....sublime-build",
+							"JSON"
+						],
+						[
+							"Packages/PackageDev/Package/Convert to ....sublime-build",
+							"Property List"
+						],
+						[
+							"Packages/PackageDev/Package/Convert to ....sublime-build",
+							"YAML (Block Style)"
+						],
+						[
+							"Packages/PackageDev/Package/Convert to ....sublime-build",
+							"YAML (Default Style)"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/PackageDev/Package/Convert to ....sublime-build",
+						"YAML (Default Style)"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"A File Icon: Environment"
+					],
+					[
+						"SublimeREPL",
+						"Build With: sublimerepl_build_system_hack"
+					]
+				],
+				"width": 444.0
+			},
+			"console":
+			{
+				"height": 164.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+					"datetime.datetime()",
+					"import datetime",
+					"import date",
+					"import sys"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/NIU/Downloads/test.txt",
+				"/D/Project/20170406_diabetes/20190611_DPP4/DPP4_flank_1k.bed",
+				"/D/Project/20170406_diabetes/20190611_DPP4/reame.sh",
+				"/D/Project/20190530_BioLib/BioLib/BioLib/vcf.py",
+				"/D/Project/20190530_BioLib/BioLib/BioLib/biotools.py",
+				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/SublimeTmpl.sublime-settings",
+				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/Main.sublime-menu",
+				"/D/Project/20190530_BioLib/BioLib/BioLib/stats.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/resources/datatables.min.css",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/resources/datatables.min.js",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/sequence.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/fasta.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/motif_scan.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/test.pfm",
+				"/C/Users/NIU/Downloads/MA0108.2.jaspar",
+				"/D/Project/20190530_BioLib/BioLib/BioLib/bed.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/tRNA_match.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/MA0139.1.pfm",
+				"/C/Users/NIU/Downloads/MA0037.3.jaspar",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/fasta_fetch.py",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/illumina_instrument.py",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/update_header_info.py",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/infer_sequencing_instrument.py",
+				"/G/xampp/SRGD/blast/blast.php",
+				"/G/xampp/SRGD/blast/tmp.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/biotools.py",
+				"/C/Users/NIU/Downloads/MA0139.1.pfm",
+				"/D/Project/20190530_BioLib/BioLib/BioLib/fasta.py",
+				"/D/Knowledge/code_Python/图形化程序设计/OlympicSymbol.py",
+				"/D/Knowledge/code_Python/并发/kaige_multiprocessing.py",
+				"/D/Knowledge/code_Python/并发/build_NJ_tree_threading_queue.py",
+				"/D/Knowledge/code_Python/软件支持/read_picard_metrics.py",
+				"/D/Knowledge/code_Python/软件支持/BUSCO_generate_plot.py",
+				"/D/Knowledge/code_Python/文本处理/settings.cfg",
+				"/D/Knowledge/code_Python/文本处理/ini.read.py",
+				"/D/Knowledge/code_Python/文本处理/xml/get_GO.py",
+				"/D/Knowledge/code_Python/文本处理/gtf/get_intronic_region.py",
+				"/D/Project/20170808_cancer_regulatory_SNP/ennet_190429/Ennet/Ennet/ennet.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/setup.py",
+				"/C/Users/NIU/Downloads/setup.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/__init__.py",
+				"/C/Users/NIU/Downloads/__init__.py",
+				"/D/Knowledge/code_4_fun/qunachi.py",
+				"/C/Users/NIU/Downloads/MA0139.1.meme",
+				"/D/Project/20181228_M1M2/ATAC/atac.190614/ATACseqQC.R",
+				"/D/Project/20181228_M1M2/ATAC/old/ATACseqQC/ATACseqQC.R",
+				"/D/Project/20181228_M1M2/ATAC/atac.190614/190614_peakCalling.pbs",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/bacteria_tRNA_identification_pipieline.sh",
+				"/D/Project/20190530_BioLib/BioLib/BioLib/sequence.py",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/readme.sh",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/get_tRNA_table.py",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/batch_tRNA_snRNA_identification.sh",
+				"/C/Users/NIU/Downloads/Acetobacter_aceti (3).pbs",
+				"/C/Users/NIU/Downloads/Acetobacter_aceti (2).pbs",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/get_tRNA_match.py",
+				"/C/Users/NIU/Downloads/Acetobacter_aceti.pbs",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/infernal.pbs",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/get_snRNA_table.py",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/batch_tRNA_snRNA_identification.pbs",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/tRNAscan.pbs",
+				"/D/Project/20170406_diabetes/#结构变异流程脚本/v20190114/SV.20190114.sh",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/aragorn.pbs",
+				"/D/Project/20190524_tRNA_promoter/190524_SF_tRNA/readme.sh",
+				"/D/Project/20181228_M1M2/ATAC/atac.190528/190529_peakCalling.pbs",
+				"/D/Project/20181228_M1M2/ATAC/atac.190313/atac_qc.py",
+				"/D/Project/tmp/20170629_beetle_genome/去污染/kraken/kraken.pbs",
+				"/D/Project/tmp/20170629_beetle_genome/去污染/kraken/build_DB_1808.sh",
+				"/E/文档/新建文本文档.txt",
+				"/D/Project/20170406_diabetes/171017_从gvcf计算突变频率/数据位置.txt",
+				"/D/Project/20170406_diabetes/171017_从gvcf计算突变频率/多线程与协程.py",
+				"/D/Project/20170406_diabetes/170411_gnomAD/total_gnomAD_frequency_v2.py",
+				"/D/Project/20170406_diabetes/170411_gnomAD/snipa_ld_donwload.sh",
+				"/D/Project/20170406_diabetes/170411_gnomAD/extract_frequency.py",
+				"/D/Project/20170406_diabetes/170411_gnomAD/170620_CQ_gnomAD.r1.py",
+				"/D/Project/20170406_diabetes/190603_T2D_1k/readme.sh",
+				"/D/Project/20190524_tRNA_promoter/RNA.final.str.fa",
+				"/D/Project/20190524_tRNA_promoter/aragorn/aragorn.pbs",
+				"/C/Users/NIU/Downloads/iconfont.woff",
+				"/D/Project/20190524_tRNA_promoter/readme.sh",
+				"/D/Project/20190524_tRNA_promoter/seq_used_to_msa.fa",
+				"/D/Project/20190524_tRNA_promoter/seq_used_to_msa.aln",
+				"/D/Project/20190524_tRNA_promoter/get_snRNA_table.py",
+				"/D/Project/20190524_tRNA_promoter/get_tRNA_table.py",
+				"/C/Users/NIU/Downloads/snRAN.final.txt",
+				"/D/Project/20190524_tRNA_promoter/get_tRNA_match.py",
+				"/C/Users/NIU/Downloads/tRNA.match.final.txt",
+				"/C/Users/NIU/Downloads/tRNA.match.final (2).txt",
+				"/D/Project/20190530_BioLib/BioLib/BioLib/quicksect.py",
+				"/D/Project/20190530_BioLib/BioLib/BioLib/intersect.py",
+				"/D/Project/20170406_diabetes/190603_T2D_1k/SV/SV.20190114.sh",
+				"/D/Project/20190530_BioLib/BioLib/test.bed",
+				"/D/Project/20190530_BioLib/zbio/bed.py",
+				"/D/Project/20181228_M1M2/RNA-seq/count/DEG.M2vsM1.anno.txt",
+				"/D/Project/20181228_M1M2/RNA-seq/count/DEG.M2vsM0.anno.txt",
+				"/D/Project/20181228_M1M2/RNA-seq/count/DEG.M1vsM0.anno.txt",
+				"/D/Project/20181228_M1M2/RNA-seq/count/anno.table",
+				"/D/Project/20181228_M1M2/RNA-seq/count/M1vsM0.down.ENSG",
+				"/D/Project/20190530_NiuLib/NiuLib/fasta.py",
+				"/D/Project/20190530_NiuLib/zbio/bed.py",
+				"/D/Project/20190530_NiuLib/NiuLib/bed.py",
+				"/D/Project/20190530_NiuLib/NiuLib/test.bed",
+				"/D/Project/20190530_NiuLib/NiuLib/misc.py",
+				"/D/Project/20190530_NiuLib/NiuLib/biotools.py",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/fasta2fastq.py",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/illumina_instrument.txt",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/guess-encoding.py",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/get_sequence_by_id_from_fasta.py",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/get_Chromosomes.py",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/assembly_stats.py",
+				"/D/Project/20190530_NiuLib/NiuLib/stats.py",
+				"/D/Project/20170808_cancer_regulatory_SNP/ennet_180821/005/escore.py",
+				"/D/Project/20170808_cancer_regulatory_SNP/ennet_190429/Ennet/Ennet/permutation.py",
+				"/D/Project/20190530_NiuLib/NiuLib/test.fa",
+				"/D/Project/20170406_diabetes/190509_mergeSV/mergeSV/mergeSV/mergeSV.py",
+				"/D/Project/20190306_流程化处理/Python/batchPreprocess.HT.py",
+				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/D/Project/20170808_cancer_regulatory_SNP/ennet_190429/Ennet/Ennet/preprocess.py",
+				"/D/Project/20190530_NiuLib/zbio/interval.py",
+				"/G/Project/tmp/20190318_脑卒中/data/关于数据的问题.txt",
+				"/D/Project/tmp/20190318_脑卒中/data/关于数据的问题.txt",
+				"/D/Project/20160823_Xijing/数据分析/RNA-seq数据处理/motif_analysis/homer.sh",
+				"/D/Project/20181228_M1M2/ATAC/atac_qc.py",
+				"/D/Project/20160823_Xijing/数据分析/RNA-seq数据处理/motif_analysis/prepare_data_4_homer.py",
+				"/C/Users/NIU/Downloads/MA0108.2.meme",
+				"/D/Project/20190530_NiuLib/zbio/fa.py"
+			],
+			"find":
+			{
+				"height": 47.0
+			},
+			"find_in_files":
+			{
+				"height": 116.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"\\n",
+					"Sequence",
+					"Fasta",
+					"Sequence",
+					"regex",
+					"molecule",
+					"print",
+					"__len__",
+					"corrdinate",
+					"T",
+					"regex",
+					"tempfile",
+					"dna",
+					"molecule",
+					",",
+					" ",
+					"\\n",
+					"\\t",
+					"$",
+					"^",
+					"degenerate_code",
+					"\\t",
+					"blast",
+					"re",
+					"time",
+					"deepcopy",
+					"\\t"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"",
+					"re",
+					"seq_type",
+					"coordinate",
+					"U",
+					"re",
+					"DNA",
+					"seq_type",
+					", ",
+					"",
+					", ",
+					"\": \"",
+					"\"",
+					"",
+					"    "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 51.0
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 144.0
+			},
+			"output.autopep8":
+			{
+				"height": 156.0
+			},
+			"output.exec":
+			{
+				"height": 315.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.package_dev":
+			{
+				"height": 156.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 156.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 86.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 233.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 941.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"motif",
+						"motif_seq〔argument〕"
+					],
+					[
+						"moti",
+						"motif_seq〔argument〕"
+					],
+					[
+						"seq",
+						"sequence〔variable〕"
+					],
+					[
+						"find",
+						"finditer〔function〕"
+					],
+					[
+						"all",
+						"allow"
+					],
+					[
+						"st",
+						"strict〔variable〕"
+					],
+					[
+						"pr",
+						"print〔keyword〕"
+					],
+					[
+						"pro",
+						"protein_iupac〔variable〕"
+					],
+					[
+						"dna_",
+						"dna_expansile〔variable〕"
+					],
+					[
+						"Ex",
+						"Exception〔class〕"
+					],
+					[
+						"mot",
+						"motif_dict〔variable〕"
+					],
+					[
+						"dege",
+						"degenerate_motif〔variable〕"
+					],
+					[
+						"m",
+						"motif_dict"
+					],
+					[
+						"tm",
+						"tmp_code"
+					],
+					[
+						"tmp",
+						"tmp_code"
+					],
+					[
+						"pf",
+						"pfm_to_re_helper〔function〕"
+					],
+					[
+						"to",
+						"tot_w"
+					],
+					[
+						"read",
+						"readline〔function〕"
+					],
+					[
+						"fil",
+						"filename〔argument〕"
+					],
+					[
+						"fi",
+						"filename〔argument〕"
+					],
+					[
+						"sta",
+						"startswith"
+					],
+					[
+						"cotn",
+						"continue〔keyword〕"
+					],
+					[
+						"ge",
+						"genome"
+					],
+					[
+						"be",
+						"bed"
+					],
+					[
+						"bed",
+						"bedtools"
+					],
+					[
+						"tR",
+						"tRNAscan_BAC"
+					],
+					[
+						"Ar",
+						"Aragorn_BAC"
+					],
+					[
+						"tRNA",
+						"tRAN_type〔variable〕"
+					],
+					[
+						"inf",
+						"infernal"
+					],
+					[
+						"tRA",
+						"tRAN_type〔variable〕"
+					],
+					[
+						"tRAN",
+						"tRNA.match.fa"
+					],
+					[
+						"str",
+						"str〔class〕"
+					],
+					[
+						"out",
+						"output"
+					],
+					[
+						"merge",
+						"merged_interval"
+					],
+					[
+						"mer",
+						"merge"
+					],
+					[
+						"Bed",
+						"BedList〔class〕"
+					],
+					[
+						"add",
+						"add_argument"
+					],
+					[
+						"dis",
+						"distance"
+					],
+					[
+						"stra",
+						"strandedness"
+					],
+					[
+						"ne",
+						"new_bed"
+					],
+					[
+						"par",
+						"parsers"
+					],
+					[
+						"se",
+						"self"
+					],
+					[
+						"is",
+						"isinstance〔function〕"
+					],
+					[
+						"ov",
+						"is_overlap〔function〕"
+					],
+					[
+						"blo",
+						"blockSizes"
+					],
+					[
+						"bloc",
+						"blockSizes"
+					],
+					[
+						"bl",
+						"blockStarts〔function〕"
+					],
+					[
+						"sor",
+						"sorted〔argument〕"
+					],
+					[
+						"sort",
+						"sorted"
+					],
+					[
+						"reco",
+						"records"
+					],
+					[
+						"rec",
+						"record〔variable〕"
+					],
+					[
+						"reo",
+						"records"
+					],
+					[
+						"B",
+						"BedFile"
+					],
+					[
+						"ch",
+						"chrom"
+					],
+					[
+						"lo",
+						"long_name〔variable〕"
+					],
+					[
+						"ite",
+						"items〔variable〕"
+					],
+					[
+						"F",
+						"FASTA"
+					],
+					[
+						"min",
+						"min_len〔variable〕"
+					],
+					[
+						"wri",
+						"write〔function〕"
+					],
+					[
+						"wr",
+						"write〔function〕"
+					],
+					[
+						"medi",
+						"median_len〔variable〕"
+					],
+					[
+						"max",
+						"max_len〔variable〕"
+					],
+					[
+						"sum",
+						"sum_len〔variable〕"
+					],
+					[
+						"num",
+						"num_seqs〔variable〕"
+					],
+					[
+						"tmp_",
+						"tmp_gc"
+					],
+					[
+						"re",
+						"records〔variable〕"
+					],
+					[
+						"me",
+						"median〔function〕"
+					],
+					[
+						"typ",
+						"type"
+					],
+					[
+						"long",
+						"long_name"
+					],
+					[
+						"id",
+						"idxname"
+					],
+					[
+						"store",
+						"store_true"
+					],
+					[
+						"fa",
+						"fasta"
+					],
+					[
+						"ar",
+						"argparser_stats〔variable〕"
+					],
+					[
+						"add_sub",
+						"add_subseq_option〔function〕"
+					],
+					[
+						"na",
+						"name_only〔argument〕"
+					],
+					[
+						"rev",
+						"revcomp"
+					],
+					[
+						"Fa",
+						"Fasta〔class〕"
+					],
+					[
+						"nam",
+						"name_only〔argument〕"
+					],
+					[
+						"proper",
+						"property"
+					],
+					[
+						"end",
+						"endswith"
+					],
+					[
+						"gro",
+						"group2"
+					],
+					[
+						"gr",
+						"group_case"
+					],
+					[
+						"sub",
+						"subparsers"
+					],
+					[
+						"head",
+						"header〔variable〕"
+					],
+					[
+						"hea",
+						"headerStr〔variable〕"
+					],
+					[
+						"t",
+						"tRNAscan_out"
+					],
+					[
+						"b",
+						"blockStarts"
+					],
+					[
+						"in",
+						"intron_begin"
+					],
+					[
+						"thi",
+						"thickStart"
+					],
+					[
+						"de",
+						"deoverlap〔function〕"
+					],
+					[
+						"remo",
+						"remove_intron〔argument〕"
+					],
+					[
+						"ara",
+						"aragorn_type〔variable〕"
+					],
+					[
+						"In",
+						"Infernal〔class〕"
+					],
+					[
+						"spli",
+						"split_list"
+					],
+					[
+						"conti",
+						"continue〔keyword〕"
+					],
+					[
+						"A",
+						"Aragorn"
+					],
+					[
+						"err",
+						"err"
+					],
+					[
+						"li",
+						"linebases"
+					],
+					[
+						"lin",
+						"linebases"
+					],
+					[
+						"_",
+						"_file_opener"
+					],
+					[
+						"bu",
+						"build_idx"
+					],
+					[
+						"idx",
+						"idxname"
+					],
+					[
+						"s",
+						"self"
+					],
+					[
+						"__th",
+						"__thickEnd"
+					],
+					[
+						"__st",
+						"__strand"
+					],
+					[
+						"set",
+						"setter"
+					],
+					[
+						"__",
+						"__init__〔function〕"
+					],
+					[
+						"Be",
+						"Bed3"
+					],
+					[
+						"a",
+						"AttributeError〔class〕"
+					],
+					[
+						"V",
+						"ValueError〔class〕"
+					],
+					[
+						"for",
+						"format"
+					],
+					[
+						"wa",
+						"warning〔function〕"
+					],
+					[
+						"__n",
+						"__next__"
+					],
+					[
+						"th",
+						"thickStart〔argument〕"
+					],
+					[
+						"e",
+						"err"
+					],
+					[
+						"CNh",
+						"CNh_OR〔variable〕"
+					],
+					[
+						"CN_",
+						"CN_OR〔variable〕"
+					],
+					[
+						"CN",
+						"CN_ctrl_mut〔variable〕"
+					],
+					[
+						"US_c",
+						"US_ctrl_mut〔variable〕"
+					],
+					[
+						"US_ca",
+						"US_case_mut〔variable〕"
+					],
+					[
+						"samp",
+						"samples〔variable〕"
+					],
+					[
+						"get",
+						"get_chi_p〔function〕"
+					],
+					[
+						"sampl",
+						"sample"
+					],
+					[
+						"sample",
+						"samples"
+					],
+					[
+						"del",
+						"del_files"
+					],
+					[
+						"vc",
+						"vcfs"
+					],
+					[
+						"sv",
+						"svs_to_report"
+					],
+					[
+						"too",
+						"toolname〔variable〕"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/User/SublimeTmpl.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 148,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							"Clean up Files"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/LaTeXing/LaTeX.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/PackageDev/Package/Convert to ....sublime-build",
+							""
+						],
+						[
+							"Packages/PackageDev/Package/Convert to ....sublime-build",
+							"JSON"
+						],
+						[
+							"Packages/PackageDev/Package/Convert to ....sublime-build",
+							"Property List"
+						],
+						[
+							"Packages/PackageDev/Package/Convert to ....sublime-build",
+							"YAML (Block Style)"
+						],
+						[
+							"Packages/PackageDev/Package/Convert to ....sublime-build",
+							"YAML (Default Style)"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/PackageDev/Package/Convert to ....sublime-build",
+						"YAML (Default Style)"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"A File Icon: Environment"
+					],
+					[
+						"SublimeREPL",
+						"Build With: sublimerepl_build_system_hack"
+					]
+				],
+				"width": 444.0
+			},
+			"console":
+			{
+				"height": 164.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+					"datetime.datetime()",
+					"import datetime",
+					"import date",
+					"import sys"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/Project/20190524_tRNA_promoter/tRNA_match",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/resources"
+			],
+			"file_history":
+			[
+				"/C/Users/NIU/Downloads/test.txt",
+				"/D/Project/20170406_diabetes/20190611_DPP4/DPP4_flank_1k.bed",
+				"/D/Project/20170406_diabetes/20190611_DPP4/reame.sh",
+				"/D/Project/20190530_BioLib/BioLib/BioLib/vcf.py",
+				"/D/Project/20190530_BioLib/BioLib/BioLib/biotools.py",
+				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/SublimeTmpl.sublime-settings",
+				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/Main.sublime-menu",
+				"/D/Project/20190530_BioLib/BioLib/BioLib/stats.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/resources/datatables.min.css",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/resources/datatables.min.js",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/sequence.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/fasta.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/motif_scan.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/test.pfm",
+				"/C/Users/NIU/Downloads/MA0108.2.jaspar",
+				"/D/Project/20190530_BioLib/BioLib/BioLib/bed.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/tRNA_match.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/MA0139.1.pfm",
+				"/C/Users/NIU/Downloads/MA0037.3.jaspar",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/fasta_fetch.py",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/illumina_instrument.py",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/update_header_info.py",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/infer_sequencing_instrument.py",
+				"/G/xampp/SRGD/blast/blast.php",
+				"/G/xampp/SRGD/blast/tmp.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/biotools.py",
+				"/C/Users/NIU/Downloads/MA0139.1.pfm",
+				"/D/Project/20190530_BioLib/BioLib/BioLib/fasta.py",
+				"/D/Knowledge/code_Python/图形化程序设计/OlympicSymbol.py",
+				"/D/Knowledge/code_Python/并发/kaige_multiprocessing.py",
+				"/D/Knowledge/code_Python/并发/build_NJ_tree_threading_queue.py",
+				"/D/Knowledge/code_Python/软件支持/read_picard_metrics.py",
+				"/D/Knowledge/code_Python/软件支持/BUSCO_generate_plot.py",
+				"/D/Knowledge/code_Python/文本处理/settings.cfg",
+				"/D/Knowledge/code_Python/文本处理/ini.read.py",
+				"/D/Knowledge/code_Python/文本处理/xml/get_GO.py",
+				"/D/Knowledge/code_Python/文本处理/gtf/get_intronic_region.py",
+				"/D/Project/20170808_cancer_regulatory_SNP/ennet_190429/Ennet/Ennet/ennet.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/setup.py",
+				"/C/Users/NIU/Downloads/setup.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/__init__.py",
+				"/C/Users/NIU/Downloads/__init__.py",
+				"/D/Knowledge/code_4_fun/qunachi.py",
+				"/C/Users/NIU/Downloads/MA0139.1.meme",
+				"/D/Project/20181228_M1M2/ATAC/atac.190614/ATACseqQC.R",
+				"/D/Project/20181228_M1M2/ATAC/old/ATACseqQC/ATACseqQC.R",
+				"/D/Project/20181228_M1M2/ATAC/atac.190614/190614_peakCalling.pbs",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/bacteria_tRNA_identification_pipieline.sh",
+				"/D/Project/20190530_BioLib/BioLib/BioLib/sequence.py",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/readme.sh",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/get_tRNA_table.py",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/batch_tRNA_snRNA_identification.sh",
+				"/C/Users/NIU/Downloads/Acetobacter_aceti (3).pbs",
+				"/C/Users/NIU/Downloads/Acetobacter_aceti (2).pbs",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/get_tRNA_match.py",
+				"/C/Users/NIU/Downloads/Acetobacter_aceti.pbs",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/infernal.pbs",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/get_snRNA_table.py",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/batch_tRNA_snRNA_identification.pbs",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/tRNAscan.pbs",
+				"/D/Project/20170406_diabetes/#结构变异流程脚本/v20190114/SV.20190114.sh",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/aragorn.pbs",
+				"/D/Project/20190524_tRNA_promoter/190524_SF_tRNA/readme.sh",
+				"/D/Project/20181228_M1M2/ATAC/atac.190528/190529_peakCalling.pbs",
+				"/D/Project/20181228_M1M2/ATAC/atac.190313/atac_qc.py",
+				"/D/Project/tmp/20170629_beetle_genome/去污染/kraken/kraken.pbs",
+				"/D/Project/tmp/20170629_beetle_genome/去污染/kraken/build_DB_1808.sh",
+				"/E/文档/新建文本文档.txt",
+				"/D/Project/20170406_diabetes/171017_从gvcf计算突变频率/数据位置.txt",
+				"/D/Project/20170406_diabetes/171017_从gvcf计算突变频率/多线程与协程.py",
+				"/D/Project/20170406_diabetes/170411_gnomAD/total_gnomAD_frequency_v2.py",
+				"/D/Project/20170406_diabetes/170411_gnomAD/snipa_ld_donwload.sh",
+				"/D/Project/20170406_diabetes/170411_gnomAD/extract_frequency.py",
+				"/D/Project/20170406_diabetes/170411_gnomAD/170620_CQ_gnomAD.r1.py",
+				"/D/Project/20170406_diabetes/190603_T2D_1k/readme.sh",
+				"/D/Project/20190524_tRNA_promoter/RNA.final.str.fa",
+				"/D/Project/20190524_tRNA_promoter/aragorn/aragorn.pbs",
+				"/C/Users/NIU/Downloads/iconfont.woff",
+				"/D/Project/20190524_tRNA_promoter/readme.sh",
+				"/D/Project/20190524_tRNA_promoter/seq_used_to_msa.fa",
+				"/D/Project/20190524_tRNA_promoter/seq_used_to_msa.aln",
+				"/D/Project/20190524_tRNA_promoter/get_snRNA_table.py",
+				"/D/Project/20190524_tRNA_promoter/get_tRNA_table.py",
+				"/C/Users/NIU/Downloads/snRAN.final.txt",
+				"/D/Project/20190524_tRNA_promoter/get_tRNA_match.py",
+				"/C/Users/NIU/Downloads/tRNA.match.final.txt",
+				"/C/Users/NIU/Downloads/tRNA.match.final (2).txt",
+				"/D/Project/20190530_BioLib/BioLib/BioLib/quicksect.py",
+				"/D/Project/20190530_BioLib/BioLib/BioLib/intersect.py",
+				"/D/Project/20170406_diabetes/190603_T2D_1k/SV/SV.20190114.sh",
+				"/D/Project/20190530_BioLib/BioLib/test.bed",
+				"/D/Project/20190530_BioLib/zbio/bed.py",
+				"/D/Project/20181228_M1M2/RNA-seq/count/DEG.M2vsM1.anno.txt",
+				"/D/Project/20181228_M1M2/RNA-seq/count/DEG.M2vsM0.anno.txt",
+				"/D/Project/20181228_M1M2/RNA-seq/count/DEG.M1vsM0.anno.txt",
+				"/D/Project/20181228_M1M2/RNA-seq/count/anno.table",
+				"/D/Project/20181228_M1M2/RNA-seq/count/M1vsM0.down.ENSG",
+				"/D/Project/20190530_NiuLib/NiuLib/fasta.py",
+				"/D/Project/20190530_NiuLib/zbio/bed.py",
+				"/D/Project/20190530_NiuLib/NiuLib/bed.py",
+				"/D/Project/20190530_NiuLib/NiuLib/test.bed",
+				"/D/Project/20190530_NiuLib/NiuLib/misc.py",
+				"/D/Project/20190530_NiuLib/NiuLib/biotools.py",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/fasta2fastq.py",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/illumina_instrument.txt",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/guess-encoding.py",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/get_sequence_by_id_from_fasta.py",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/get_Chromosomes.py",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/assembly_stats.py",
+				"/D/Project/20190530_NiuLib/NiuLib/stats.py",
+				"/D/Project/20170808_cancer_regulatory_SNP/ennet_180821/005/escore.py",
+				"/D/Project/20170808_cancer_regulatory_SNP/ennet_190429/Ennet/Ennet/permutation.py",
+				"/D/Project/20190530_NiuLib/NiuLib/test.fa",
+				"/D/Project/20170406_diabetes/190509_mergeSV/mergeSV/mergeSV/mergeSV.py",
+				"/D/Project/20190306_流程化处理/Python/batchPreprocess.HT.py",
+				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/D/Project/20170808_cancer_regulatory_SNP/ennet_190429/Ennet/Ennet/preprocess.py",
+				"/D/Project/20190530_NiuLib/zbio/interval.py",
+				"/G/Project/tmp/20190318_脑卒中/data/关于数据的问题.txt",
+				"/D/Project/tmp/20190318_脑卒中/data/关于数据的问题.txt",
+				"/D/Project/20160823_Xijing/数据分析/RNA-seq数据处理/motif_analysis/homer.sh",
+				"/D/Project/20181228_M1M2/ATAC/atac_qc.py",
+				"/D/Project/20160823_Xijing/数据分析/RNA-seq数据处理/motif_analysis/prepare_data_4_homer.py",
+				"/C/Users/NIU/Downloads/MA0108.2.meme",
+				"/D/Project/20190530_NiuLib/zbio/fa.py"
+			],
+			"find":
+			{
+				"height": 47.0
+			},
+			"find_in_files":
+			{
+				"height": 116.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"\\n",
+					"Sequence",
+					"Fasta",
+					"Sequence",
+					"regex",
+					"molecule",
+					"print",
+					"__len__",
+					"corrdinate",
+					"T",
+					"regex",
+					"tempfile",
+					"dna",
+					"molecule",
+					",",
+					" ",
+					"\\n",
+					"\\t",
+					"$",
+					"^",
+					"degenerate_code",
+					"\\t",
+					"blast",
+					"re",
+					"time",
+					"deepcopy",
+					"\\t"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"",
+					"re",
+					"seq_type",
+					"coordinate",
+					"U",
+					"re",
+					"DNA",
+					"seq_type",
+					", ",
+					"",
+					", ",
+					"\": \"",
+					"\"",
+					"",
+					"    "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\Project\\20190524_tRNA_promoter\\tRNA_match"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"SL.16.region_keys":
+									[
+									],
+									"auto_complete": false,
+									"default_dir": null,
+									"default_extension": "py",
+									"incomplete_sync": null,
+									"syntax": "Packages/Python/Python.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/User/SublimeTmpl.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 148,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										148,
+										148
+									]
+								],
+								"settings":
+								{
+									"SL.17.region_keys":
+									[
+									],
+									"auto_complete": true,
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PackageDev/Package/Sublime Text Settings/Sublime Text Settings.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 51.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 144.0
+			},
+			"output.autopep8":
+			{
+				"height": 156.0
+			},
+			"output.exec":
+			{
+				"height": 315.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.package_dev":
+			{
+				"height": 156.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 156.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,814,348,61,1305",
+			"project": "",
+			"replace":
+			{
+				"height": 86.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 233.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 113,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"motif",
+						"motif_seq〔argument〕"
+					],
+					[
+						"moti",
+						"motif_seq〔argument〕"
+					],
+					[
+						"seq",
+						"sequence〔variable〕"
+					],
+					[
+						"find",
+						"finditer〔function〕"
+					],
+					[
+						"all",
+						"allow"
+					],
+					[
+						"st",
+						"strict〔variable〕"
+					],
+					[
+						"pr",
+						"print〔keyword〕"
+					],
+					[
+						"pro",
+						"protein_iupac〔variable〕"
+					],
+					[
+						"dna_",
+						"dna_expansile〔variable〕"
+					],
+					[
+						"Ex",
+						"Exception〔class〕"
+					],
+					[
+						"mot",
+						"motif_dict〔variable〕"
+					],
+					[
+						"dege",
+						"degenerate_motif〔variable〕"
+					],
+					[
+						"m",
+						"motif_dict"
+					],
+					[
+						"tm",
+						"tmp_code"
+					],
+					[
+						"tmp",
+						"tmp_code"
+					],
+					[
+						"pf",
+						"pfm_to_re_helper〔function〕"
+					],
+					[
+						"to",
+						"tot_w"
+					],
+					[
+						"read",
+						"readline〔function〕"
+					],
+					[
+						"fil",
+						"filename〔argument〕"
+					],
+					[
+						"fi",
+						"filename〔argument〕"
+					],
+					[
+						"sta",
+						"startswith"
+					],
+					[
+						"cotn",
+						"continue〔keyword〕"
+					],
+					[
+						"ge",
+						"genome"
+					],
+					[
+						"be",
+						"bed"
+					],
+					[
+						"bed",
+						"bedtools"
+					],
+					[
+						"tR",
+						"tRNAscan_BAC"
+					],
+					[
+						"Ar",
+						"Aragorn_BAC"
+					],
+					[
+						"tRNA",
+						"tRAN_type〔variable〕"
+					],
+					[
+						"inf",
+						"infernal"
+					],
+					[
+						"tRA",
+						"tRAN_type〔variable〕"
+					],
+					[
+						"tRAN",
+						"tRNA.match.fa"
+					],
+					[
+						"str",
+						"str〔class〕"
+					],
+					[
+						"out",
+						"output"
+					],
+					[
+						"merge",
+						"merged_interval"
+					],
+					[
+						"mer",
+						"merge"
+					],
+					[
+						"Bed",
+						"BedList〔class〕"
+					],
+					[
+						"add",
+						"add_argument"
+					],
+					[
+						"dis",
+						"distance"
+					],
+					[
+						"stra",
+						"strandedness"
+					],
+					[
+						"ne",
+						"new_bed"
+					],
+					[
+						"par",
+						"parsers"
+					],
+					[
+						"se",
+						"self"
+					],
+					[
+						"is",
+						"isinstance〔function〕"
+					],
+					[
+						"ov",
+						"is_overlap〔function〕"
+					],
+					[
+						"blo",
+						"blockSizes"
+					],
+					[
+						"bloc",
+						"blockSizes"
+					],
+					[
+						"bl",
+						"blockStarts〔function〕"
+					],
+					[
+						"sor",
+						"sorted〔argument〕"
+					],
+					[
+						"sort",
+						"sorted"
+					],
+					[
+						"reco",
+						"records"
+					],
+					[
+						"rec",
+						"record〔variable〕"
+					],
+					[
+						"reo",
+						"records"
+					],
+					[
+						"B",
+						"BedFile"
+					],
+					[
+						"ch",
+						"chrom"
+					],
+					[
+						"lo",
+						"long_name〔variable〕"
+					],
+					[
+						"ite",
+						"items〔variable〕"
+					],
+					[
+						"F",
+						"FASTA"
+					],
+					[
+						"min",
+						"min_len〔variable〕"
+					],
+					[
+						"wri",
+						"write〔function〕"
+					],
+					[
+						"wr",
+						"write〔function〕"
+					],
+					[
+						"medi",
+						"median_len〔variable〕"
+					],
+					[
+						"max",
+						"max_len〔variable〕"
+					],
+					[
+						"sum",
+						"sum_len〔variable〕"
+					],
+					[
+						"num",
+						"num_seqs〔variable〕"
+					],
+					[
+						"tmp_",
+						"tmp_gc"
+					],
+					[
+						"re",
+						"records〔variable〕"
+					],
+					[
+						"me",
+						"median〔function〕"
+					],
+					[
+						"typ",
+						"type"
+					],
+					[
+						"long",
+						"long_name"
+					],
+					[
+						"id",
+						"idxname"
+					],
+					[
+						"store",
+						"store_true"
+					],
+					[
+						"fa",
+						"fasta"
+					],
+					[
+						"ar",
+						"argparser_stats〔variable〕"
+					],
+					[
+						"add_sub",
+						"add_subseq_option〔function〕"
+					],
+					[
+						"na",
+						"name_only〔argument〕"
+					],
+					[
+						"rev",
+						"revcomp"
+					],
+					[
+						"Fa",
+						"Fasta〔class〕"
+					],
+					[
+						"nam",
+						"name_only〔argument〕"
+					],
+					[
+						"proper",
+						"property"
+					],
+					[
+						"end",
+						"endswith"
+					],
+					[
+						"gro",
+						"group2"
+					],
+					[
+						"gr",
+						"group_case"
+					],
+					[
+						"sub",
+						"subparsers"
+					],
+					[
+						"head",
+						"header〔variable〕"
+					],
+					[
+						"hea",
+						"headerStr〔variable〕"
+					],
+					[
+						"t",
+						"tRNAscan_out"
+					],
+					[
+						"b",
+						"blockStarts"
+					],
+					[
+						"in",
+						"intron_begin"
+					],
+					[
+						"thi",
+						"thickStart"
+					],
+					[
+						"de",
+						"deoverlap〔function〕"
+					],
+					[
+						"remo",
+						"remove_intron〔argument〕"
+					],
+					[
+						"ara",
+						"aragorn_type〔variable〕"
+					],
+					[
+						"In",
+						"Infernal〔class〕"
+					],
+					[
+						"spli",
+						"split_list"
+					],
+					[
+						"conti",
+						"continue〔keyword〕"
+					],
+					[
+						"A",
+						"Aragorn"
+					],
+					[
+						"err",
+						"err"
+					],
+					[
+						"li",
+						"linebases"
+					],
+					[
+						"lin",
+						"linebases"
+					],
+					[
+						"_",
+						"_file_opener"
+					],
+					[
+						"bu",
+						"build_idx"
+					],
+					[
+						"idx",
+						"idxname"
+					],
+					[
+						"s",
+						"self"
+					],
+					[
+						"__th",
+						"__thickEnd"
+					],
+					[
+						"__st",
+						"__strand"
+					],
+					[
+						"set",
+						"setter"
+					],
+					[
+						"__",
+						"__init__〔function〕"
+					],
+					[
+						"Be",
+						"Bed3"
+					],
+					[
+						"a",
+						"AttributeError〔class〕"
+					],
+					[
+						"V",
+						"ValueError〔class〕"
+					],
+					[
+						"for",
+						"format"
+					],
+					[
+						"wa",
+						"warning〔function〕"
+					],
+					[
+						"__n",
+						"__next__"
+					],
+					[
+						"th",
+						"thickStart〔argument〕"
+					],
+					[
+						"e",
+						"err"
+					],
+					[
+						"CNh",
+						"CNh_OR〔variable〕"
+					],
+					[
+						"CN_",
+						"CN_OR〔variable〕"
+					],
+					[
+						"CN",
+						"CN_ctrl_mut〔variable〕"
+					],
+					[
+						"US_c",
+						"US_ctrl_mut〔variable〕"
+					],
+					[
+						"US_ca",
+						"US_case_mut〔variable〕"
+					],
+					[
+						"samp",
+						"samples〔variable〕"
+					],
+					[
+						"get",
+						"get_chi_p〔function〕"
+					],
+					[
+						"sampl",
+						"sample"
+					],
+					[
+						"sample",
+						"samples"
+					],
+					[
+						"del",
+						"del_files"
+					],
+					[
+						"vc",
+						"vcfs"
+					],
+					[
+						"sv",
+						"svs_to_report"
+					],
+					[
+						"too",
+						"toolname〔variable〕"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "// Place your settings in the file \"Packages/User/Preferences.sublime-settings\",\n// which overrides the settings in here.\n//\n// Settings may also be placed in syntax-specific setting files, for\n// example, in Packages/User/Python.sublime-settings for python files.\n{\n    // Sets the colors used within the text area\n    \"color_scheme\": \"Monokai.sublime-color-scheme\",\n\n    // Note that the font_face and font_size are overridden in the platform\n    // specific settings file, for example, \"Preferences (Linux).sublime-settings\".\n    // Because of this, setting them here will have no effect: you must set them\n    // in your User File Preferences.\n    \"font_face\": \"\",\n    \"font_size\": 10,\n\n    // Valid options on all platforms are:\n    //  - \"no_bold\": Disables bold text\n    //  - \"no_italic\": Disables italic text\n    // Antialiasing options:\n    //  - \"no_antialias\": Disables antialiasing\n    //  - \"gray_antialias\": Uses grayscale antialiasing instead of subpixel\n    // Ligature options:\n    //  - \"no_liga\": Disables standard ligatures (OpenType liga feature)\n    //  - \"no_clig\": Disables contextual ligatures (OpenType clig feature)\n    //  - \"no_calt\": Disables contextual alternatives (OpenType calt feature)\n    //  - \"dlig\": Enables discretionary ligatures (OpenType dlig feature)\n    //  - \"ss01\": Enables OpenType stylistic set 1. Can enable sets 1 to 10\n    //        by changing the last two digits.\n    // Windows-only options:\n    //  - \"directwrite\": (default) Use DirectWrite for font rendering\n    //  - \"gdi\": Use GDI for font rendering\n    //  - \"dwrite_cleartype_classic\": Only applicable to \"directwrite\" mode,\n    //        should render fonts similar to traditional GDI\n    //  - \"dwrite_cleartype_natural\": Only applicable to \"directwrite\" mode,\n    //        should render fonts similar to ClearType \"natural quality\" GDI\n    //  - \"subpixel_antialias\": Force ClearType antialiasing when disabled\n    //        at system level\n    // Mac-only options:\n    //  - \"no_round\": Don't round glyph widths for monospace fonts when\n    //        \"font_size\" is small.\n    \"font_options\": [],\n    // Font options for theme text. Valid options are the same as\n    // \"font_options\", except \"no_bold\" and \"no_italic\" are not supported\n    \"theme_font_options\": [],\n\n    // Characters that are considered to separate words\n    \"word_separators\": \"./\\\\()\\\"'-:,.;<>~!@#$%^&*|+=[]{}`~?\",\n\n    // Set to false to prevent line numbers being drawn in the gutter\n    \"line_numbers\": true,\n\n    // Set to false to hide the gutter altogether\n    \"gutter\": true,\n\n    // Spacing between the gutter and the text\n    \"margin\": 4,\n\n    // Fold buttons are the triangles shown in the gutter to fold regions of text\n    \"fold_buttons\": true,\n\n    // Hides the fold buttons unless the mouse is over the gutter\n    \"fade_fold_buttons\": true,\n\n    // Indicate modified lines in the gutter\n    // - true: Enables modified line indicators on all files\n    // - \"auto\": Enables modified line indicators on tracked files within Git\n    // - false: Disables modified line indicators\n    \"mini_diff\": true,\n\n    // Columns in which to display vertical rulers\n    \"rulers\": [],\n\n    // Set to true to turn spell checking on by default\n    \"spell_check\": false,\n\n    // The number of spaces a tab is considered equal to\n    \"tab_size\": 4,\n\n    // Set to true to insert spaces when tab is pressed\n    \"translate_tabs_to_spaces\": false,\n\n    // If translate_tabs_to_spaces is true, use_tab_stops will make tab and\n    // backspace insert/delete up to the next tabstop\n    \"use_tab_stops\": true,\n\n    // Set to false to disable detection of tabs vs. spaces on load\n    \"detect_indentation\": true,\n\n    // Calculates indentation automatically when pressing enter\n    \"auto_indent\": true,\n\n    // Makes auto indent a little smarter, e.g., by indenting the next line\n    // after an if statement in C. Requires auto_indent to be enabled.\n    \"smart_indent\": true,\n\n    // Adds whitespace up to the first open bracket when indenting. Requires\n    // auto_indent to be enabled.\n    \"indent_to_bracket\": false,\n\n    // Trims white space added by auto_indent when moving the caret off the\n    // line.\n    \"trim_automatic_white_space\": true,\n\n    // Disables horizontal scrolling if enabled.\n    // May be set to true, false, or \"auto\", where it will be disabled for\n    // source code, and otherwise enabled.\n    \"word_wrap\": \"auto\",\n\n    // Set to a value other than 0 to force wrapping at that column rather than the\n    // window width\n    \"wrap_width\": 0,\n\n    // Set to false to prevent word wrapped lines from being indented to the same\n    // level\n    \"indent_subsequent_lines\": true,\n\n    // Draws text centered in the window rather than left aligned\n    \"draw_centered\": false,\n\n    // Controls auto pairing of quotes, brackets etc\n    \"auto_match_enabled\": true,\n\n    // Word list to use for spell checking\n    \"dictionary\": \"Packages/Language - English/en_US.dic\",\n\n    // Sets which scopes are checked for spelling errors\n    \"spelling_selector\": \"markup.raw, source string.quoted - punctuation - meta.preprocessor.include, source comment - source comment.block.preprocessor, -(source, constant, keyword, storage, support, variable, markup.underline.link, meta.tag)\",\n\n    // Set to true to draw a border around the visible rectangle on the minimap.\n    // The color of the border will be determined by the \"minimapBorder\" key in\n    // the color scheme\n    \"draw_minimap_border\": false,\n\n    // Always visualise the viewport on the minimap, as opposed to only\n    // showing it on mouse over\n    \"always_show_minimap_viewport\": false,\n\n    // If enabled, will highlight any line with a caret\n    \"highlight_line\": false,\n\n    // Valid values are \"smooth\", \"phase\", \"blink\" and \"solid\".\n    \"caret_style\": \"smooth\",\n\n    // These settings control the size of the caret\n    \"caret_extra_top\": 2,\n    \"caret_extra_bottom\": 2,\n    \"caret_extra_width\": 1,\n\n    // When enabled, the caret will be drawn as a rectangle, using the width\n    // of the current character\n    \"block_caret\": false,\n\n    // Set to false to disable underlining the brackets surrounding the caret\n    \"match_brackets\": true,\n\n    // Set to false if you'd rather only highlight the brackets when the caret is\n    // next to one\n    \"match_brackets_content\": true,\n\n    // Set to false to not highlight square brackets. This only takes effect if\n    // match_brackets is true\n    \"match_brackets_square\": true,\n\n    // Set to false to not highlight curly brackets. This only takes effect if\n    // match_brackets is true\n    \"match_brackets_braces\": true,\n\n    // Set to false to not highlight angle brackets. This only takes effect if\n    // match_brackets is true\n    \"match_brackets_angle\": false,\n\n    // Enable visualization of the matching tag in HTML and XML\n    \"match_tags\": true,\n\n    // Highlights other occurrences of the currently selected text\n    \"match_selection\": true,\n\n    // Additional spacing at the top of each line, in pixels\n    \"line_padding_top\": 0,\n\n    // Additional spacing at the bottom of each line, in pixels\n    \"line_padding_bottom\": 0,\n\n    // Set to false to disable scrolling past the end of the buffer.\n    // On Mac, this value is overridden in the platform specific settings, so\n    // you'll need to place this line in your user settings to override it.\n    \"scroll_past_end\": true,\n\n    // This controls what happens when pressing up or down when on the first\n    // or last line.\n    // On Mac, this value is overridden in the platform specific settings, so\n    // you'll need to place this line in your user settings to override it.\n    \"move_to_limit_on_up_down\": false,\n\n    // Set to \"none\" to turn off drawing white space, \"selection\" to draw only the\n    // white space within the selection, and \"all\" to draw all white space\n    \"draw_white_space\": \"selection\",\n\n    // Set to false to turn off the indentation guides.\n    // The color and width of the indent guides may be customized by editing\n    // the corresponding .tmTheme file, and specifying the colors \"guide\",\n    // \"activeGuide\" and \"stackGuide\"\n    \"draw_indent_guides\": true,\n\n    // Controls how the indent guides are drawn, valid options are\n    // \"draw_normal\" and \"draw_active\". draw_active will draw the indent\n    // guides containing the caret in a different color.\n    \"indent_guide_options\": [\"draw_normal\"],\n\n    // Set to true to removing trailing white space on save\n    \"trim_trailing_white_space_on_save\": false,\n\n    // Set to true to ensure the last line of the file ends in a newline\n    // character when saving\n    \"ensure_newline_at_eof_on_save\": false,\n\n    // Set to true to automatically save files when switching to a different file\n    // or application\n    \"save_on_focus_lost\": false,\n\n    // Save via writing to an alternate file, and then renaming it over the\n    // original file.\n    \"atomic_save\": false,\n\n    // The encoding to use when the encoding can't be determined automatically.\n    // ASCII, UTF-8 and UTF-16 encodings will be automatically detected.\n    \"fallback_encoding\": \"Western (Windows 1252)\",\n\n    // Encoding used when saving new files, and files opened with an undefined\n    // encoding (e.g., plain ascii files). If a file is opened with a specific\n    // encoding (either detected or given explicitly), this setting will be\n    // ignored, and the file will be saved with the encoding it was opened\n    // with.\n    \"default_encoding\": \"UTF-8\",\n\n    // Files containing null bytes are opened as hexadecimal by default\n    \"enable_hexadecimal_encoding\": true,\n\n    // Determines what character(s) are used to terminate each line in new files.\n    // Valid values are 'system' (whatever the OS uses), 'windows' (CRLF) and\n    // 'unix' (LF only).\n    \"default_line_ending\": \"system\",\n\n    // When enabled, hovering over a word will show a popup listing all\n    // possible locations for the definition symbol. Requires index_files.\n    \"show_definitions\": true,\n\n    // When enabled, pressing tab will insert the best matching completion.\n    // When disabled, tab will only trigger snippets or insert a tab.\n    // Shift+tab can be used to insert an explicit tab when tab_completion is\n    // enabled.\n    \"tab_completion\": true,\n\n    // Enable auto complete to be triggered automatically when typing.\n    \"auto_complete\": true,\n\n    // The maximum file size where auto complete will be automatically triggered.\n    \"auto_complete_size_limit\": 4194304,\n\n    // The delay, in ms, before the auto complete window is shown after typing\n    \"auto_complete_delay\": 50,\n\n    // Controls what scopes auto complete will be triggered in\n    \"auto_complete_selector\": \"meta.tag - punctuation.definition.tag.begin, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc\",\n\n    // Additional situations to trigger auto complete\n    \"auto_complete_triggers\": [ {\"selector\": \"text.html\", \"characters\": \"<\"} ],\n\n    // By default, auto complete will commit the current completion on enter.\n    // This setting can be used to make it complete on tab instead.\n    // Completing on tab is generally a superior option, as it removes\n    // ambiguity between committing the completion and inserting a newline.\n    \"auto_complete_commit_on_tab\": false,\n\n    // Controls if auto complete is shown when snippet fields are active.\n    // Only relevant if auto_complete_commit_on_tab is true.\n    \"auto_complete_with_fields\": false,\n\n    // Controls what happens when pressing the up key while the first item in\n    // the auto complete window is selected: if false, the window is hidden,\n    // otherwise the last item in the window is selected. Likewise for the\n    // down key when the last item is selected.\n    \"auto_complete_cycle\": false,\n\n    // Automatically close HTML and XML tags when </ is entered.\n    \"auto_close_tags\": true,\n\n    // By default, shift+tab will only unindent if the selection spans\n    // multiple lines. When pressing shift+tab at other times, it'll insert a\n    // tab character - this allows tabs to be inserted when tab_completion is\n    // enabled. Set this to true to make shift+tab always unindent, instead of\n    // inserting tabs.\n    \"shift_tab_unindent\": false,\n\n    // If true, the copy and cut commands will operate on the current line\n    // when the selection is empty, rather than doing nothing.\n    \"copy_with_empty_selection\": true,\n\n    // If true, the selected text will be copied into the find panel when it's\n    // shown.\n    // On Mac, this value is overridden in the platform specific settings, so\n    // you'll need to place this line in your user settings to override it.\n    \"find_selected_text\": true,\n\n    // When auto_find_in_selection is enabled, the \"Find in Selection\" flag\n    // will be enabled automatically when multiple lines of text are selected\n    \"auto_find_in_selection\": false,\n\n    // When drag_text is enabled, clicking on selected text will begin a\n    // drag-drop operation. This is not currently implemented under Linux.\n    \"drag_text\": true,\n\n    //\n    // User Interface Settings\n    //\n\n    // The theme controls the look of Sublime Text's UI (buttons, tabs, scroll bars, etc)\n    \"theme\": \"Default.sublime-theme\",\n\n    // Set to 0 to disable smooth scrolling. Set to a value between 0 and 1 to\n    // scroll slower, or set to larger than 1 to scroll faster\n    \"scroll_speed\": 1.0,\n\n    // Controls side bar animation when expanding or collapsing folders\n    \"tree_animation_enabled\": true,\n\n    // Controls animation throughout the application\n    \"animation_enabled\": true,\n\n    // Makes tabs with modified files more visible\n    \"highlight_modified_tabs\": false,\n\n    \"show_tab_close_buttons\": true,\n\n    // Show folders in the side bar in bold\n    \"bold_folder_labels\": false,\n\n    // Draw divider lines between sections of the UI when using the Adaptive theme\n    \"adaptive_dividers\": true,\n\n    // Mac only. Valid values are true, false, and \"auto\". Auto will enable\n    // the setting when running on a screen 2560 pixels or wider (i.e., a\n    // Retina display). When this setting is enabled, OpenGL is used to\n    // accelerate drawing. Sublime Text must be restarted for changes to take\n    // effect.\n    \"gpu_window_buffer\": \"auto\",\n\n    // Mac only. Controls use of macOS tabs in 10.12 and newer. Each native tab\n    // contains an entire project, thus allowing multiple projects in a single\n    // window. Valid values are \"system\", \"preferred\" and \"disabled\".\n    \"native_tabs\": \"system\",\n\n    // Valid values are \"system\", \"enabled\" and \"disabled\"\n    \"overlay_scroll_bars\": \"system\",\n\n    // Allows tabs to scroll left and right, instead of simply shrinking\n    \"enable_tab_scrolling\": true,\n\n    // Display file encoding in the status bar\n    \"show_encoding\": false,\n\n    // Display line endings in the status bar\n    \"show_line_endings\": false,\n\n    // Magnifies the entire user interface. Sublime Text must be restarted for\n    // this to take effect. 1.0 is normal scale, 0.0 allows for auto-detection\n    // based on text scale with older Linux configurations that don't fully\n    // support GTK display scaling.\n    \"ui_scale\": 0.0,\n\n    //\n    // Application Behavior Settings\n    //\n\n    // Exiting the application with hot_exit enabled will cause it to close\n    // immediately without prompting. Unsaved modifications and open files will\n    // be preserved and restored when next starting.\n    //\n    // Closing a window with an associated project will also close the window\n    // without prompting, preserving unsaved changes in the workspace file\n    // alongside the project.\n    \"hot_exit\": true,\n\n    // remember_full_screen will allow Sublime Text to start in full screen\n    // mode if it was exited in full screen mode. When set to false, Sublime\n    // Text will never start in full screen mode.\n    \"remember_full_screen\": false,\n\n    // Mac only. If the user's default shell should be invoked to obtain the\n    // user's customized environment variables. May be a boolean, or a string\n    // of the path the shell to invoke. Sublime Text must be restarted for this\n    // to take effect.\n    \"shell_environment\": true,\n\n    // Always prompt before reloading a file, even if the file hasn't been\n    // modified. The default behavior is to automatically reload a file if it\n    // hasn't been edited. If a file has unsaved changes, a prompt will always\n    // be shown.\n    \"always_prompt_for_file_reload\": false,\n\n    // Mac only: When files are opened from finder, or by dragging onto the\n    // dock icon, this controls if a new window is created or not.\n    \"open_files_in_new_window\": true,\n\n    // Mac only: This controls if an empty window is created at startup or not.\n    \"create_window_at_startup\": true,\n\n    // Mac only: Show recent files on the Touch Bar.\n    \"show_navigation_bar\": true,\n\n    // Set to true to close windows as soon as the last file is closed, unless\n    // there's a folder open within the window.\n    // On Mac, this value is overridden in the platform specific settings, so\n    // you'll need to place this line in your user settings to override it.\n    \"close_windows_when_empty\": false,\n\n    // Show the full path to files in the title bar.\n    // On Mac, this value is overridden in the platform specific settings, so\n    // you'll need to place this line in your user settings to override it.\n    \"show_full_path\": true,\n\n    // Shows the Build Results panel when building. If set to false, the Build\n    // Results can be shown via the Tools/Build Results menu.\n    \"show_panel_on_build\": true,\n\n    // Shows build errors just under the line on which they occur.\n    \"show_errors_inline\": true,\n\n    // Shows git repository information next to files in sidebar and in\n    // the status bar. Sublime Text has to be restarted for this to take\n    // effect.\n    \"show_git_status\": true,\n\n    // Enables showing git status for a git repository in the user's home\n    // directory. This is disabled by default since it is typically accidental\n    // and can cause heavy CPU usage related to file system watches.\n    \"allow_git_home_dir\": false,\n\n    // This setting determines whether tracked Git files should be diffed\n    // against the index or HEAD.\n    // Valid values are \"index\" or \"head\"\n    \"git_diff_target\": \"index\",\n\n    // Preview file contents when clicking on a file in the side bar. Double\n    // clicking or editing the preview will open the file and assign it a tab.\n    \"preview_on_click\": true,\n\n    // folder_exclude_patterns and file_exclude_patterns control which files\n    // are listed in folders on the side bar. These can also be set on a per-\n    // project basis.\n    \"folder_exclude_patterns\": [\".svn\", \".git\", \".hg\", \"CVS\"],\n    \"file_exclude_patterns\": [\"*.pyc\", \"*.pyo\", \"*.exe\", \"*.dll\", \"*.obj\",\"*.o\", \"*.a\", \"*.lib\", \"*.so\", \"*.dylib\", \"*.ncb\", \"*.sdf\", \"*.suo\", \"*.pdb\", \"*.idb\", \".DS_Store\", \"*.class\", \"*.psd\", \"*.db\", \"*.sublime-workspace\"],\n    // These files will still show up in the side bar, but won't be included in\n    // Goto Anything or Find in Files\n    \"binary_file_patterns\": [\"*.jpg\", \"*.jpeg\", \"*.png\", \"*.gif\", \"*.ttf\", \"*.tga\", \"*.dds\", \"*.ico\", \"*.eot\", \"*.pdf\", \"*.swf\", \"*.jar\", \"*.zip\"],\n\n    // File indexing parses all files in the side bar, and builds an index of\n    // their symbols. This is required for Goto Definition to work.\n    \"index_files\": true,\n\n    // Set the number threads to use for indexing. A value of 0 will make\n    // Sublime Text guess based on the number of cores. Use the index_files\n    // setting to disable all workers.\n    \"index_workers\": 0,\n\n    // index_exclude_patterns indicate which files won't be indexed.\n    \"index_exclude_patterns\": [\"*.log\"],\n\n    // List any packages to ignore here. When removing entries from this list,\n    // a restart may be required if the package contains plugins.\n    \"ignored_packages\": [\"Vintage\"]\n}\n",
+					"file": "/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 19945,
+						"line_ending": "Unix",
+						"read_only": true,
+						"scratch": true
+					}
+				},
+				{
+					"file": "/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 677,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							"Clean up Files"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/LaTeXing/LaTeX.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/PackageDev/Package/Convert to ....sublime-build",
+							""
+						],
+						[
+							"Packages/PackageDev/Package/Convert to ....sublime-build",
+							"JSON"
+						],
+						[
+							"Packages/PackageDev/Package/Convert to ....sublime-build",
+							"Property List"
+						],
+						[
+							"Packages/PackageDev/Package/Convert to ....sublime-build",
+							"YAML (Block Style)"
+						],
+						[
+							"Packages/PackageDev/Package/Convert to ....sublime-build",
+							"YAML (Default Style)"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/PackageDev/Package/Convert to ....sublime-build",
+						"YAML (Default Style)"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"A File Icon: Environment"
+					],
+					[
+						"SublimeREPL",
+						"Build With: sublimerepl_build_system_hack"
+					]
+				],
+				"width": 444.0
+			},
+			"console":
+			{
+				"height": 164.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+					"datetime.datetime()",
+					"import datetime",
+					"import date",
+					"import sys"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/NIU/Downloads/test.txt",
+				"/D/Project/20170406_diabetes/20190611_DPP4/DPP4_flank_1k.bed",
+				"/D/Project/20170406_diabetes/20190611_DPP4/reame.sh",
+				"/D/Project/20190530_BioLib/BioLib/BioLib/vcf.py",
+				"/D/Project/20190530_BioLib/BioLib/BioLib/biotools.py",
+				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/SublimeTmpl.sublime-settings",
+				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/Main.sublime-menu",
+				"/D/Project/20190530_BioLib/BioLib/BioLib/stats.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/resources/datatables.min.css",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/resources/datatables.min.js",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/sequence.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/fasta.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/motif_scan.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/test.pfm",
+				"/C/Users/NIU/Downloads/MA0108.2.jaspar",
+				"/D/Project/20190530_BioLib/BioLib/BioLib/bed.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/tRNA_match.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/MA0139.1.pfm",
+				"/C/Users/NIU/Downloads/MA0037.3.jaspar",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/fasta_fetch.py",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/illumina_instrument.py",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/update_header_info.py",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/infer_sequencing_instrument.py",
+				"/G/xampp/SRGD/blast/blast.php",
+				"/G/xampp/SRGD/blast/tmp.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/biotools.py",
+				"/C/Users/NIU/Downloads/MA0139.1.pfm",
+				"/D/Project/20190530_BioLib/BioLib/BioLib/fasta.py",
+				"/D/Knowledge/code_Python/图形化程序设计/OlympicSymbol.py",
+				"/D/Knowledge/code_Python/并发/kaige_multiprocessing.py",
+				"/D/Knowledge/code_Python/并发/build_NJ_tree_threading_queue.py",
+				"/D/Knowledge/code_Python/软件支持/read_picard_metrics.py",
+				"/D/Knowledge/code_Python/软件支持/BUSCO_generate_plot.py",
+				"/D/Knowledge/code_Python/文本处理/settings.cfg",
+				"/D/Knowledge/code_Python/文本处理/ini.read.py",
+				"/D/Knowledge/code_Python/文本处理/xml/get_GO.py",
+				"/D/Knowledge/code_Python/文本处理/gtf/get_intronic_region.py",
+				"/D/Project/20170808_cancer_regulatory_SNP/ennet_190429/Ennet/Ennet/ennet.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/setup.py",
+				"/C/Users/NIU/Downloads/setup.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/__init__.py",
+				"/C/Users/NIU/Downloads/__init__.py",
+				"/D/Knowledge/code_4_fun/qunachi.py",
+				"/C/Users/NIU/Downloads/MA0139.1.meme",
+				"/D/Project/20181228_M1M2/ATAC/atac.190614/ATACseqQC.R",
+				"/D/Project/20181228_M1M2/ATAC/old/ATACseqQC/ATACseqQC.R",
+				"/D/Project/20181228_M1M2/ATAC/atac.190614/190614_peakCalling.pbs",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/bacteria_tRNA_identification_pipieline.sh",
+				"/D/Project/20190530_BioLib/BioLib/BioLib/sequence.py",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/readme.sh",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/get_tRNA_table.py",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/batch_tRNA_snRNA_identification.sh",
+				"/C/Users/NIU/Downloads/Acetobacter_aceti (3).pbs",
+				"/C/Users/NIU/Downloads/Acetobacter_aceti (2).pbs",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/get_tRNA_match.py",
+				"/C/Users/NIU/Downloads/Acetobacter_aceti.pbs",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/infernal.pbs",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/get_snRNA_table.py",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/batch_tRNA_snRNA_identification.pbs",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/tRNAscan.pbs",
+				"/D/Project/20170406_diabetes/#结构变异流程脚本/v20190114/SV.20190114.sh",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/aragorn.pbs",
+				"/D/Project/20190524_tRNA_promoter/190524_SF_tRNA/readme.sh",
+				"/D/Project/20181228_M1M2/ATAC/atac.190528/190529_peakCalling.pbs",
+				"/D/Project/20181228_M1M2/ATAC/atac.190313/atac_qc.py",
+				"/D/Project/tmp/20170629_beetle_genome/去污染/kraken/kraken.pbs",
+				"/D/Project/tmp/20170629_beetle_genome/去污染/kraken/build_DB_1808.sh",
+				"/E/文档/新建文本文档.txt",
+				"/D/Project/20170406_diabetes/171017_从gvcf计算突变频率/数据位置.txt",
+				"/D/Project/20170406_diabetes/171017_从gvcf计算突变频率/多线程与协程.py",
+				"/D/Project/20170406_diabetes/170411_gnomAD/total_gnomAD_frequency_v2.py",
+				"/D/Project/20170406_diabetes/170411_gnomAD/snipa_ld_donwload.sh",
+				"/D/Project/20170406_diabetes/170411_gnomAD/extract_frequency.py",
+				"/D/Project/20170406_diabetes/170411_gnomAD/170620_CQ_gnomAD.r1.py",
+				"/D/Project/20170406_diabetes/190603_T2D_1k/readme.sh",
+				"/D/Project/20190524_tRNA_promoter/RNA.final.str.fa",
+				"/D/Project/20190524_tRNA_promoter/aragorn/aragorn.pbs",
+				"/C/Users/NIU/Downloads/iconfont.woff",
+				"/D/Project/20190524_tRNA_promoter/readme.sh",
+				"/D/Project/20190524_tRNA_promoter/seq_used_to_msa.fa",
+				"/D/Project/20190524_tRNA_promoter/seq_used_to_msa.aln",
+				"/D/Project/20190524_tRNA_promoter/get_snRNA_table.py",
+				"/D/Project/20190524_tRNA_promoter/get_tRNA_table.py",
+				"/C/Users/NIU/Downloads/snRAN.final.txt",
+				"/D/Project/20190524_tRNA_promoter/get_tRNA_match.py",
+				"/C/Users/NIU/Downloads/tRNA.match.final.txt",
+				"/C/Users/NIU/Downloads/tRNA.match.final (2).txt",
+				"/D/Project/20190530_BioLib/BioLib/BioLib/quicksect.py",
+				"/D/Project/20190530_BioLib/BioLib/BioLib/intersect.py",
+				"/D/Project/20170406_diabetes/190603_T2D_1k/SV/SV.20190114.sh",
+				"/D/Project/20190530_BioLib/BioLib/test.bed",
+				"/D/Project/20190530_BioLib/zbio/bed.py",
+				"/D/Project/20181228_M1M2/RNA-seq/count/DEG.M2vsM1.anno.txt",
+				"/D/Project/20181228_M1M2/RNA-seq/count/DEG.M2vsM0.anno.txt",
+				"/D/Project/20181228_M1M2/RNA-seq/count/DEG.M1vsM0.anno.txt",
+				"/D/Project/20181228_M1M2/RNA-seq/count/anno.table",
+				"/D/Project/20181228_M1M2/RNA-seq/count/M1vsM0.down.ENSG",
+				"/D/Project/20190530_NiuLib/NiuLib/fasta.py",
+				"/D/Project/20190530_NiuLib/zbio/bed.py",
+				"/D/Project/20190530_NiuLib/NiuLib/bed.py",
+				"/D/Project/20190530_NiuLib/NiuLib/test.bed",
+				"/D/Project/20190530_NiuLib/NiuLib/misc.py",
+				"/D/Project/20190530_NiuLib/NiuLib/biotools.py",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/fasta2fastq.py",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/illumina_instrument.txt",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/guess-encoding.py",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/get_sequence_by_id_from_fasta.py",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/get_Chromosomes.py",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/assembly_stats.py",
+				"/D/Project/20190530_NiuLib/NiuLib/stats.py",
+				"/D/Project/20170808_cancer_regulatory_SNP/ennet_180821/005/escore.py",
+				"/D/Project/20170808_cancer_regulatory_SNP/ennet_190429/Ennet/Ennet/permutation.py",
+				"/D/Project/20190530_NiuLib/NiuLib/test.fa",
+				"/D/Project/20170406_diabetes/190509_mergeSV/mergeSV/mergeSV/mergeSV.py",
+				"/D/Project/20190306_流程化处理/Python/batchPreprocess.HT.py",
+				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/D/Project/20170808_cancer_regulatory_SNP/ennet_190429/Ennet/Ennet/preprocess.py",
+				"/D/Project/20190530_NiuLib/zbio/interval.py",
+				"/G/Project/tmp/20190318_脑卒中/data/关于数据的问题.txt",
+				"/D/Project/tmp/20190318_脑卒中/data/关于数据的问题.txt",
+				"/D/Project/20160823_Xijing/数据分析/RNA-seq数据处理/motif_analysis/homer.sh",
+				"/D/Project/20181228_M1M2/ATAC/atac_qc.py",
+				"/D/Project/20160823_Xijing/数据分析/RNA-seq数据处理/motif_analysis/prepare_data_4_homer.py",
+				"/C/Users/NIU/Downloads/MA0108.2.meme",
+				"/D/Project/20190530_NiuLib/zbio/fa.py"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 116.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 19945,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										19945,
+										19945
+									]
+								],
+								"settings":
+								{
+									"auto_complete": true,
+									"edit_settings_other_view_id": 56,
+									"edit_settings_view": "base",
+									"mini_diff": false,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PackageDev/Package/Sublime Text Settings/Sublime Text Settings.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 1,
+							"file": "/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 677,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										545,
+										545
+									]
+								],
+								"settings":
+								{
+									"edit_settings_other_view_id": 55,
+									"edit_settings_view": "user",
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PackageDev/Package/Sublime Text Settings/Sublime Text Settings.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 156.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 51.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 144.0
+			},
+			"output.autopep8":
+			{
+				"height": 156.0
+			},
+			"output.exec":
+			{
+				"height": 315.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.package_dev":
+			{
+				"height": 156.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 156.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,909,156,156,1113",
+			"project": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 1,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 233.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 116,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/D/Project/20190510_DriverNetPy/DriverNetPy.sublime-workspace",
+			"/D/Project/20170808_cancer_regulatory_SNP/ennet_develop.sublime-workspace"
+		]
+	}
+}
