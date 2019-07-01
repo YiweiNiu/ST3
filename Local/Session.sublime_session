@@ -1,8 +1,8 @@
 {
 	"folder_history":
 	[
-		"/D/Project/20190524_tRNA_promoter/tRNA_match",
 		"/D/Project/20190530_BioLib/BioLib",
+		"/D/Project/20190524_tRNA_promoter/tRNA_match",
 		"/D/Project/20190530_NiuLib/NiuLib",
 		"/D/Project/20170808_cancer_regulatory_SNP/ennet_190429",
 		"/D/Project/20170406_diabetes/190509_mergeSV",
@@ -39,7 +39,7 @@
 		"/D/Project/20170808_cancer_regulatory_SNP/ennet"
 	],
 	"last_version": 3207,
-	"last_window_id": 114,
+	"last_window_id": 118,
 	"log_indexing": false,
 	"settings":
 	{
@@ -50,6 +50,26 @@
 			{
 				"selected_items":
 				[
+					[
+						"snp",
+						"snp1"
+					],
+					[
+						"t2",
+						"t2d_test〔variable〕"
+					],
+					[
+						"in",
+						"in_t2d〔variable〕"
+					],
+					[
+						"AC",
+						"ACGT"
+					],
+					[
+						"sli",
+						"slice〔class〕"
+					],
 					[
 						"motif",
 						"motif_seq〔argument〕"
@@ -399,10 +419,6 @@
 						"blockStarts"
 					],
 					[
-						"in",
-						"intron_begin"
-					],
-					[
 						"thi",
 						"thickStart"
 					],
@@ -545,22 +561,6 @@
 					[
 						"sample",
 						"samples"
-					],
-					[
-						"del",
-						"del_files"
-					],
-					[
-						"vc",
-						"vcfs"
-					],
-					[
-						"sv",
-						"svs_to_report"
-					],
-					[
-						"too",
-						"toolname〔variable〕"
 					]
 				]
 			},
@@ -708,22 +708,40 @@
 			},
 			"file_history":
 			[
+				"/D/Project/20190530_BioLib/BioLib/BioLib/vcf.py",
+				"/D/Project/20170406_diabetes/20190611_DPP4/test.py",
+				"/C/Users/NIU/Downloads/test",
+				"/G/xampp/SRGD/blast/blast.php",
 				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/sequence.py",
-				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/fasta.py",
 				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/motif_scan.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/MA0139.1.pfm",
+				"/C/Users/NIU/Downloads/test.vcf",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/test.pfm",
+				"/D/Project/20190524_tRNA_promoter/190524_SF_tRNA/infernal/sf.genome.deoverlapped.tblout",
+				"/D/Project/20190530_BioLib/BioLib/BioLib/biotools.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/biotools.py",
+				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/User/SublimeTmpl.sublime-settings",
+				"/C/Users/NIU/Downloads/test.txt",
+				"/D/Project/20170406_diabetes/20190611_DPP4/DPP4_flank_1k.bed",
+				"/D/Project/20170406_diabetes/20190611_DPP4/reame.sh",
+				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/SublimeTmpl.sublime-settings",
+				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/Main.sublime-menu",
+				"/D/Project/20190530_BioLib/BioLib/BioLib/stats.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/resources/datatables.min.css",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/resources/datatables.min.js",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/fasta.py",
 				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/test.pfm",
 				"/C/Users/NIU/Downloads/MA0108.2.jaspar",
 				"/D/Project/20190530_BioLib/BioLib/BioLib/bed.py",
 				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/tRNA_match.py",
-				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/MA0139.1.pfm",
 				"/C/Users/NIU/Downloads/MA0037.3.jaspar",
 				"/D/Knowledge/code_Python/文本处理/fasta & fastq/fasta_fetch.py",
 				"/D/Knowledge/code_Python/文本处理/fasta & fastq/illumina_instrument.py",
 				"/D/Knowledge/code_Python/文本处理/fasta & fastq/update_header_info.py",
 				"/D/Knowledge/code_Python/文本处理/fasta & fastq/infer_sequencing_instrument.py",
-				"/G/xampp/SRGD/blast/blast.php",
 				"/G/xampp/SRGD/blast/tmp.py",
-				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/biotools.py",
 				"/C/Users/NIU/Downloads/MA0139.1.pfm",
 				"/D/Project/20190530_BioLib/BioLib/BioLib/fasta.py",
 				"/D/Knowledge/code_Python/图形化程序设计/OlympicSymbol.py",
@@ -744,7 +762,6 @@
 				"/C/Users/NIU/Downloads/MA0139.1.meme",
 				"/D/Project/20181228_M1M2/ATAC/atac.190614/ATACseqQC.R",
 				"/D/Project/20181228_M1M2/ATAC/old/ATACseqQC/ATACseqQC.R",
-				"/D/Project/20190530_BioLib/BioLib/BioLib/biotools.py",
 				"/D/Project/20181228_M1M2/ATAC/atac.190614/190614_peakCalling.pbs",
 				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/bacteria_tRNA_identification_pipieline.sh",
 				"/D/Project/20190530_BioLib/BioLib/BioLib/sequence.py",
@@ -818,24 +835,7 @@
 				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
 				"/D/Project/20170808_cancer_regulatory_SNP/ennet_190429/Ennet/Ennet/preprocess.py",
 				"/D/Project/20190530_NiuLib/zbio/interval.py",
-				"/G/Project/tmp/20190318_脑卒中/data/关于数据的问题.txt",
-				"/D/Project/tmp/20190318_脑卒中/data/关于数据的问题.txt",
-				"/D/Project/20160823_Xijing/数据分析/RNA-seq数据处理/motif_analysis/homer.sh",
-				"/D/Project/20181228_M1M2/ATAC/atac_qc.py",
-				"/D/Project/20160823_Xijing/数据分析/RNA-seq数据处理/motif_analysis/prepare_data_4_homer.py",
-				"/C/Users/NIU/Downloads/MA0108.2.meme",
-				"/D/Project/20190530_NiuLib/zbio/fa.py",
-				"/D/Knowledge/code_Python/文本处理/fasta & fastq/fasta_len.py",
-				"/D/Project/20170808_cancer_regulatory_SNP/ennet_180821/003/ennet.py",
-				"/D/Project/20170808_cancer_regulatory_SNP/ennet_180821/003/escore.py",
-				"/D/Project/20170808_cancer_regulatory_SNP/ennet_180821/changenote.txt",
-				"/D/Project/20190530_NiuLib/NiuLib/format.py",
-				"/D/Project/20190530_NiuLib/zbio/io.py",
-				"/D/Project/20190530_NiuLib/zbio/splitGenome.py",
-				"/D/Project/20170406_diabetes/190603_T2D_1k/SV/wham.tmp.sh",
-				"/D/Project/20170406_diabetes/190527_mergeByBedops/mergeCallers.sh",
-				"/D/Project/20170406_diabetes/190603_T2D_1k/put_rawdata_in.sh",
-				"/D/Project/20170406_diabetes/181023_08-s-IBFC2018459-SV/summarizeStat.py"
+				"/G/Project/tmp/20190318_脑卒中/data/关于数据的问题.txt"
 			],
 			"find":
 			{
@@ -853,33 +853,6 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"\\n",
-					"Sequence",
-					"Fasta",
-					"Sequence",
-					"regex",
-					"molecule",
-					"print",
-					"__len__",
-					"corrdinate",
-					"T",
-					"regex",
-					"tempfile",
-					"dna",
-					"molecule",
-					",",
-					" ",
-					"\\n",
-					"\\t",
-					"$",
-					"^",
-					"degenerate_code",
-					"\\t",
-					"blast",
-					"re",
-					"time",
-					"deepcopy",
-					"\\t"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -887,21 +860,6 @@
 				"regex": true,
 				"replace_history":
 				[
-					"",
-					"re",
-					"seq_type",
-					"coordinate",
-					"U",
-					"re",
-					"DNA",
-					"seq_type",
-					", ",
-					"",
-					", ",
-					"\": \"",
-					"\"",
-					"",
-					"    "
 				],
 				"reverse": false,
 				"show_context": true,
@@ -953,7 +911,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 86.0
+				"height": 66.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1003,16 +961,56 @@
 				"selected_items":
 				[
 					[
+						"K",
+						"KeyboardInterrupt〔class〕"
+					],
+					[
+						"rs",
+						"rs_score〔variable〕"
+					],
+					[
+						"read",
+						"read_ld_rs〔function〕"
+					],
+					[
+						"fil",
+						"filename"
+					],
+					[
+						"fi",
+						"filename"
+					],
+					[
+						"seq",
+						"seq_id〔variable〕"
+					],
+					[
+						"snp",
+						"snp1"
+					],
+					[
+						"t2",
+						"t2d_test〔variable〕"
+					],
+					[
+						"in",
+						"in_t2d〔variable〕"
+					],
+					[
+						"AC",
+						"ACGT"
+					],
+					[
+						"sli",
+						"slice〔class〕"
+					],
+					[
 						"motif",
 						"motif_seq〔argument〕"
 					],
 					[
 						"moti",
 						"motif_seq〔argument〕"
-					],
-					[
-						"seq",
-						"sequence〔variable〕"
 					],
 					[
 						"find",
@@ -1069,18 +1067,6 @@
 					[
 						"to",
 						"tot_w"
-					],
-					[
-						"read",
-						"readline〔function〕"
-					],
-					[
-						"fil",
-						"filename〔argument〕"
-					],
-					[
-						"fi",
-						"filename〔argument〕"
 					],
 					[
 						"sta",
@@ -1351,10 +1337,6 @@
 						"blockStarts"
 					],
 					[
-						"in",
-						"intron_begin"
-					],
-					[
 						"thi",
 						"thickStart"
 					],
@@ -1489,30 +1471,6 @@
 					[
 						"get",
 						"get_chi_p〔function〕"
-					],
-					[
-						"sampl",
-						"sample"
-					],
-					[
-						"sample",
-						"samples"
-					],
-					[
-						"del",
-						"del_files"
-					],
-					[
-						"vc",
-						"vcfs"
-					],
-					[
-						"sv",
-						"svs_to_report"
-					],
-					[
-						"too",
-						"toolname〔variable〕"
 					]
 				]
 			},
@@ -1664,17 +1622,108 @@
 			},
 			"expanded_folders":
 			[
-				"/D/Project/20190524_tRNA_promoter/tRNA_match",
-				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match",
-				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/resources"
+				"/D/Project/20190530_BioLib/BioLib"
 			],
 			"file_history":
 			[
-				"/C/Users/NIU/Downloads/test.txt",
-				"/D/Project/20170406_diabetes/20190611_DPP4/DPP4_flank_1k.bed",
+				"/D/Project/20190429_metagenomics/190515_test5samples/meta/metawrap_190630.pbs",
+				"/C/Users/NIU/Downloads/install.sh",
+				"/D/Project/20170525_Goqi/数据/10X_preprocess.pbs",
+				"/C/Users/NIU/Downloads/run_tests.bash",
+				"/C/Users/NIU/Downloads/kraken.sh",
+				"/C/Users/NIU/Desktop/arks.txt",
+				"/C/Users/NIU/Downloads/README.txt",
+				"/D/Project/20190429_metagenomics/190515_test5samples/meta/anvio_190627.pbs",
+				"/G/Desktop/新建文本文档.txt",
+				"/D/Project/tmp/20170629_beetle_genome/去污染/kraken/build_DB_1808.sh",
+				"/D/Project/tmp/20170629_beetle_genome/去污染/prepare_contaminants.sh",
+				"/D/Project/tmp/20170629_beetle_genome/去污染/kraken/build_DB_180619.sh",
+				"/D/Project/tmp/20170629_beetle_genome/去污染/kraken/build_DB.sh",
+				"/D/Project/tmp/20170629_beetle_genome/去污染/kraken/kraken.pbs",
+				"/C/Users/NIU/Desktop/新建文本文档.txt",
+				"/G/software/FormatFactoryPortable/!-使用必读.txt",
+				"/D/Ref_Pipline/bcbio/readme.sh",
+				"/C/Users/NIU/Downloads/secondary_analysis_scripts/combine_counts.py",
+				"/D/Project/20181228_M1M2/ATAC_GSE96800/down.sh",
+				"/D/Project/20181228_M1M2/ATAC/atac.190614/190614_peakCalling.pbs",
+				"/D/Project/20190429_metagenomics/190515_test5samples/meta/QC_190624.pbs",
+				"/D/Project/20160823_Xijing/数据分析/RNA-seq数据处理/motif_analysis/homer.sh",
+				"/D/Project/20160823_Xijing/数据分析/RNA-seq数据处理/motif_analysis/prepare_data_4_homer.py",
+				"/C/Users/NIU/Desktop/tmp.py",
+				"/C/Users/NIU/Desktop/问题.txt",
+				"/C/Users/NIU/Desktop/to_do_list.txt",
+				"/D/Project/20181228_M1M2/ATAC/atac.190313/190313_BAM_reProcess.pbs",
+				"/D/Project/20170406_diabetes/#结构变异流程脚本/v20190114/SV.20190114.sh",
+				"/D/Project/20170406_diabetes/190527_mergeSVbyBedops/mergeSamples.sh",
+				"/D/Project/20170406_diabetes/190527_mergeSVbyBedops/mergeCallers.sh",
+				"/D/Project/tmp/20170629_beetle_genome/组装/MEGAHIT/MEGAHIT.pbs",
+				"/D/Project/20190429_metagenomics/190515_test5samples/meta/anvio.pbs",
+				"/D/Project/20190429_metagenomics/190515_test5samples/16S/ASVs_taxonomy.tsv",
+				"/D/Project/20190429_metagenomics/190515_test5samples/16S/ASVs_counts.tsv",
+				"/D/Project/20190429_metagenomics/190515_test5samples/16S/ASVs.fa",
+				"/D/Project/20160823_Xijing/数据分析/RNA-seq数据处理/readcount/human/human.R",
+				"/D/Project/20160823_Xijing/数据分析/结果整合/180829_整理1/human/human.R",
+				"/D/Project/tmp/20180123_李红霞_TMEM176A/TCGA_ESCA/HiSeqV2",
+				"/D/Project/tmp/20180123_李红霞_TMEM176A/TCGA_LIHC/HiSeqV2",
+				"/C/Users/NIU/Downloads/arks_run2.txt",
+				"/C/Users/NIU/Downloads/variant_catalog.json",
+				"/C/Users/NIU/Downloads/exSTRa_simpleRepeat_brain_expressed.txt",
+				"/C/Users/NIU/Downloads/TREDs.alts.csv",
+				"/C/Users/NIU/Downloads/TREDs.meta.csv",
+				"/C/Users/NIU/Downloads/exSTRa_simpleRepeat.txt",
+				"/C/Users/NIU/Downloads/HLI_bams.csv",
+				"/D/Knowledge/code_Shell/RNA-seq/hg38.GEO.v1.0.sh",
 				"/D/Project/20170406_diabetes/20190611_DPP4/reame.sh",
+				"/D/Project/20170406_diabetes/20190611_DPP4/DPP4_flank_1k.bed",
+				"/D/Project/20190429_metagenomics/190515_test5samples/meta/readme.sh",
+				"/D/Project/20190429_metagenomics/190515_test5samples/meta/QC.pbs",
+				"/D/Project/20181228_M1M2/ATAC/atac.190313/ATAqC/ATAqC.txt",
+				"/D/Project/20181228_M1M2/ATAC/atac_qc_collect.py",
+				"/D/Project/20190429_metagenomics/190515_test5samples/16S/sample_info.txt",
+				"/C/Users/NIU/Documents/新建文本文档1.txt",
+				"/C/Users/NIU/Documents/说明.txt",
+				"/D/Project/20160823_Xijing/数据分析/结果整合/180829_整理1/fig2_time/fig2_time.R",
+				"/D/Project/20190530_BioLib/BioLib/BioLib/fasta.py",
+				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/Default.sublime-commands",
+				"/D/Knowledge/hexo/source/_posts/构建自己的笔记管理系统.md",
+				"/D/Project/20190306_流程化处理/Python/batchPreprocess.HT.py",
+				"/D/Knowledge/code_Python/文本处理/fasta & fastq/fasta_fetch.py",
+				"/D/Project/20170406_diabetes/190527_mergeSVbyBedops/mergeCallers.tmp.awk",
+				"/D/Project/20190510_DriverNetPy/RegMutCoe/RegMutCoe/build_coe.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/fasta.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/sequence.py",
+				"/D/Knowledge/code_4_fun/#144 Droid BB-8.R",
+				"/D/Project/20190429_metagenomics/190515_测试/taxonomy/Levels/class_abundance.txt",
+				"/D/ChenLab/帐号.txt",
+				"/G/ChenLab/软件用法/blastn usage.txt",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/result_leu.blast8.txt",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/leu.blast8",
+				"/D/Project/tmp/20171110_beetle_transcriptome/blastTwoGeneFam/readme.sh",
+				"/G/xampp/SRGD/blast/blast.php",
+				"/D/Ref_Pipline/ensembl-pipeline-master/scripts/EST/run_blat.pl",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/bacteria_tRNA_identification_pipieline.sh",
+				"/C/Users/NIU/Downloads/result_190620.txt",
+				"/C/Users/NIU/Downloads/Acetobacter_aceti.tRNA.final.txt",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/readme.sh",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/get_tRNA_table.py",
+				"/G/xampp/SRGD/blast/blast_note.txt",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/get_snRNA_table.py",
+				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/get_tRNA_match.py",
+				"/D/Project/20170406_diabetes/20190611_DPP4/run.py",
+				"/D/Project/20170406_diabetes/20190611_DPP4/result.txt",
+				"/D/Project/20170406_diabetes/20190611_DPP4/result_reame.txt",
 				"/D/Project/20190530_BioLib/BioLib/BioLib/vcf.py",
+				"/D/Project/20170406_diabetes/20190611_DPP4/test.py",
+				"/C/Users/NIU/Downloads/test",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/motif_scan.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/MA0139.1.pfm",
+				"/C/Users/NIU/Downloads/test.vcf",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/test.pfm",
+				"/D/Project/20190524_tRNA_promoter/190524_SF_tRNA/infernal/sf.genome.deoverlapped.tblout",
 				"/D/Project/20190530_BioLib/BioLib/BioLib/biotools.py",
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/biotools.py",
+				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/User/SublimeTmpl.sublime-settings",
+				"/C/Users/NIU/Downloads/test.txt",
 				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
 				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
 				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/SublimeTmpl.sublime-settings",
@@ -1682,24 +1731,16 @@
 				"/D/Project/20190530_BioLib/BioLib/BioLib/stats.py",
 				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/resources/datatables.min.css",
 				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/resources/datatables.min.js",
-				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/sequence.py",
-				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/fasta.py",
-				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/motif_scan.py",
 				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/test.pfm",
 				"/C/Users/NIU/Downloads/MA0108.2.jaspar",
 				"/D/Project/20190530_BioLib/BioLib/BioLib/bed.py",
 				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/tRNA_match.py",
-				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/MA0139.1.pfm",
 				"/C/Users/NIU/Downloads/MA0037.3.jaspar",
-				"/D/Knowledge/code_Python/文本处理/fasta & fastq/fasta_fetch.py",
 				"/D/Knowledge/code_Python/文本处理/fasta & fastq/illumina_instrument.py",
 				"/D/Knowledge/code_Python/文本处理/fasta & fastq/update_header_info.py",
 				"/D/Knowledge/code_Python/文本处理/fasta & fastq/infer_sequencing_instrument.py",
-				"/G/xampp/SRGD/blast/blast.php",
 				"/G/xampp/SRGD/blast/tmp.py",
-				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/biotools.py",
 				"/C/Users/NIU/Downloads/MA0139.1.pfm",
-				"/D/Project/20190530_BioLib/BioLib/BioLib/fasta.py",
 				"/D/Knowledge/code_Python/图形化程序设计/OlympicSymbol.py",
 				"/D/Knowledge/code_Python/并发/kaige_multiprocessing.py",
 				"/D/Knowledge/code_Python/并发/build_NJ_tree_threading_queue.py",
@@ -1712,96 +1753,11 @@
 				"/D/Project/20170808_cancer_regulatory_SNP/ennet_190429/Ennet/Ennet/ennet.py",
 				"/D/Project/20190524_tRNA_promoter/tRNA_match/setup.py",
 				"/C/Users/NIU/Downloads/setup.py",
-				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/__init__.py",
-				"/C/Users/NIU/Downloads/__init__.py",
-				"/D/Knowledge/code_4_fun/qunachi.py",
-				"/C/Users/NIU/Downloads/MA0139.1.meme",
-				"/D/Project/20181228_M1M2/ATAC/atac.190614/ATACseqQC.R",
-				"/D/Project/20181228_M1M2/ATAC/old/ATACseqQC/ATACseqQC.R",
-				"/D/Project/20181228_M1M2/ATAC/atac.190614/190614_peakCalling.pbs",
-				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/bacteria_tRNA_identification_pipieline.sh",
-				"/D/Project/20190530_BioLib/BioLib/BioLib/sequence.py",
-				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/readme.sh",
-				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/get_tRNA_table.py",
-				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/batch_tRNA_snRNA_identification.sh",
-				"/C/Users/NIU/Downloads/Acetobacter_aceti (3).pbs",
-				"/C/Users/NIU/Downloads/Acetobacter_aceti (2).pbs",
-				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/get_tRNA_match.py",
-				"/C/Users/NIU/Downloads/Acetobacter_aceti.pbs",
-				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/infernal.pbs",
-				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/get_snRNA_table.py",
-				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/batch_tRNA_snRNA_identification.pbs",
-				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/tRNAscan.pbs",
-				"/D/Project/20170406_diabetes/#结构变异流程脚本/v20190114/SV.20190114.sh",
-				"/D/Project/20190524_tRNA_promoter/190612_bacteria_tRNA/aragorn.pbs",
-				"/D/Project/20190524_tRNA_promoter/190524_SF_tRNA/readme.sh",
-				"/D/Project/20181228_M1M2/ATAC/atac.190528/190529_peakCalling.pbs",
-				"/D/Project/20181228_M1M2/ATAC/atac.190313/atac_qc.py",
-				"/D/Project/tmp/20170629_beetle_genome/去污染/kraken/kraken.pbs",
-				"/D/Project/tmp/20170629_beetle_genome/去污染/kraken/build_DB_1808.sh",
-				"/E/文档/新建文本文档.txt",
-				"/D/Project/20170406_diabetes/171017_从gvcf计算突变频率/数据位置.txt",
-				"/D/Project/20170406_diabetes/171017_从gvcf计算突变频率/多线程与协程.py",
-				"/D/Project/20170406_diabetes/170411_gnomAD/total_gnomAD_frequency_v2.py",
-				"/D/Project/20170406_diabetes/170411_gnomAD/snipa_ld_donwload.sh",
-				"/D/Project/20170406_diabetes/170411_gnomAD/extract_frequency.py",
-				"/D/Project/20170406_diabetes/170411_gnomAD/170620_CQ_gnomAD.r1.py",
-				"/D/Project/20170406_diabetes/190603_T2D_1k/readme.sh",
-				"/D/Project/20190524_tRNA_promoter/RNA.final.str.fa",
-				"/D/Project/20190524_tRNA_promoter/aragorn/aragorn.pbs",
-				"/C/Users/NIU/Downloads/iconfont.woff",
-				"/D/Project/20190524_tRNA_promoter/readme.sh",
-				"/D/Project/20190524_tRNA_promoter/seq_used_to_msa.fa",
-				"/D/Project/20190524_tRNA_promoter/seq_used_to_msa.aln",
-				"/D/Project/20190524_tRNA_promoter/get_snRNA_table.py",
-				"/D/Project/20190524_tRNA_promoter/get_tRNA_table.py",
-				"/C/Users/NIU/Downloads/snRAN.final.txt",
-				"/D/Project/20190524_tRNA_promoter/get_tRNA_match.py",
-				"/C/Users/NIU/Downloads/tRNA.match.final.txt",
-				"/C/Users/NIU/Downloads/tRNA.match.final (2).txt",
-				"/D/Project/20190530_BioLib/BioLib/BioLib/quicksect.py",
-				"/D/Project/20190530_BioLib/BioLib/BioLib/intersect.py",
-				"/D/Project/20170406_diabetes/190603_T2D_1k/SV/SV.20190114.sh",
-				"/D/Project/20190530_BioLib/BioLib/test.bed",
-				"/D/Project/20190530_BioLib/zbio/bed.py",
-				"/D/Project/20181228_M1M2/RNA-seq/count/DEG.M2vsM1.anno.txt",
-				"/D/Project/20181228_M1M2/RNA-seq/count/DEG.M2vsM0.anno.txt",
-				"/D/Project/20181228_M1M2/RNA-seq/count/DEG.M1vsM0.anno.txt",
-				"/D/Project/20181228_M1M2/RNA-seq/count/anno.table",
-				"/D/Project/20181228_M1M2/RNA-seq/count/M1vsM0.down.ENSG",
-				"/D/Project/20190530_NiuLib/NiuLib/fasta.py",
-				"/D/Project/20190530_NiuLib/zbio/bed.py",
-				"/D/Project/20190530_NiuLib/NiuLib/bed.py",
-				"/D/Project/20190530_NiuLib/NiuLib/test.bed",
-				"/D/Project/20190530_NiuLib/NiuLib/misc.py",
-				"/D/Project/20190530_NiuLib/NiuLib/biotools.py",
-				"/D/Knowledge/code_Python/文本处理/fasta & fastq/fasta2fastq.py",
-				"/D/Knowledge/code_Python/文本处理/fasta & fastq/illumina_instrument.txt",
-				"/D/Knowledge/code_Python/文本处理/fasta & fastq/guess-encoding.py",
-				"/D/Knowledge/code_Python/文本处理/fasta & fastq/get_sequence_by_id_from_fasta.py",
-				"/D/Knowledge/code_Python/文本处理/fasta & fastq/get_Chromosomes.py",
-				"/D/Knowledge/code_Python/文本处理/fasta & fastq/assembly_stats.py",
-				"/D/Project/20190530_NiuLib/NiuLib/stats.py",
-				"/D/Project/20170808_cancer_regulatory_SNP/ennet_180821/005/escore.py",
-				"/D/Project/20170808_cancer_regulatory_SNP/ennet_190429/Ennet/Ennet/permutation.py",
-				"/D/Project/20190530_NiuLib/NiuLib/test.fa",
-				"/D/Project/20170406_diabetes/190509_mergeSV/mergeSV/mergeSV/mergeSV.py",
-				"/D/Project/20190306_流程化处理/Python/batchPreprocess.HT.py",
-				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
-				"/C/Users/NIU/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
-				"/D/Project/20170808_cancer_regulatory_SNP/ennet_190429/Ennet/Ennet/preprocess.py",
-				"/D/Project/20190530_NiuLib/zbio/interval.py",
-				"/G/Project/tmp/20190318_脑卒中/data/关于数据的问题.txt",
-				"/D/Project/tmp/20190318_脑卒中/data/关于数据的问题.txt",
-				"/D/Project/20160823_Xijing/数据分析/RNA-seq数据处理/motif_analysis/homer.sh",
-				"/D/Project/20181228_M1M2/ATAC/atac_qc.py",
-				"/D/Project/20160823_Xijing/数据分析/RNA-seq数据处理/motif_analysis/prepare_data_4_homer.py",
-				"/C/Users/NIU/Downloads/MA0108.2.meme",
-				"/D/Project/20190530_NiuLib/zbio/fa.py"
+				"/D/Project/20190524_tRNA_promoter/tRNA_match/tRNA_match/__init__.py"
 			],
 			"find":
 			{
-				"height": 47.0
+				"height": 49.0
 			},
 			"find_in_files":
 			{
@@ -1815,33 +1771,23 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"anaconda2",
 					"\\n",
-					"Sequence",
-					"Fasta",
-					"Sequence",
-					"regex",
-					"molecule",
-					"print",
-					"__len__",
-					"corrdinate",
-					"T",
-					"regex",
-					"tempfile",
-					"dna",
-					"molecule",
-					",",
-					" ",
+					"samtools",
+					"index",
+					"download_hg19",
+					"bpipeconfig_template",
+					"\\)",
+					"^.*MIM: ",
 					"\\n",
-					"\\t",
-					"$",
-					"^",
-					"degenerate_code",
-					"\\t",
-					"blast",
-					"re",
-					"time",
-					"deepcopy",
-					"\\t"
+					"\"",
+					" +",
+					"\\n",
+					"str",
+					"\\n",
+					"^\\[.*] ",
+					"-m",
+					": "
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1849,21 +1795,17 @@
 				"regex": true,
 				"replace_history":
 				[
+					"anaconda3",
+					" ",
 					"",
-					"re",
-					"seq_type",
-					"coordinate",
-					"U",
-					"re",
-					"DNA",
-					"seq_type",
+					" ",
+					"",
+					"\\n",
+					" ",
 					", ",
+					"\\t",
 					"",
-					", ",
-					"\": \"",
-					"\"",
-					"",
-					"    "
+					"\\t"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -1874,7 +1816,7 @@
 			"folders":
 			[
 				{
-					"path": "D:\\Project\\20190524_tRNA_promoter\\tRNA_match"
+					"path": "D:\\Project\\20190530_BioLib\\BioLib"
 				}
 			],
 			"groups":
@@ -1887,7 +1829,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 35.0
+				"height": 37.0
 			},
 			"input":
 			{
@@ -1949,11 +1891,11 @@
 				"height": 156.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,1,-32000,-32000,-1,-1,814,348,61,1305",
+			"position": "0,2,1,-32000,-32000,-1,-1,858,349,105,1306",
 			"project": "",
 			"replace":
 			{
-				"height": 86.0
+				"height": 90.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1996,7 +1938,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 113,
+			"window_id": 117,
 			"workspace_name": ""
 		}
 	],
